@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Shaik Mahaboob Basha
 
-### 🚀 Java Full Stack Developer | Open to Work
+🚀 Java Full Stack Developer | Java | Python | Oracle SQL | Open to Work
 
 * 🔭 Java Full Stack Developer with training in Java, Angular, HTML, CSS, JavaScript and Oracle SQL.
-* 🌱 Currently improving backend development skills and building real-world applications.
+* 🌱 Continuously learning and building real-world Java Full Stack applications.
 * 💻 Skilled in Java, Angular, JDBC, Oracle SQL, Git and GitHub.
 * 🎯 Interested in Software Engineer and Java Full Stack Developer roles.
 * 📍 Anantapur, Andhra Pradesh, India
@@ -51,12 +51,10 @@
 
 ## 📫 Connect with me
 
-Email: [smbashadev@gmail.com](mailto:smbashadev@gmail.com)
+📧 Email: [smbashadev@gmail.com](mailto:smbashadev@gmail.com)
 
-LinkedIn:
-linkedin.com/in/shaik-mahaboob-basha-java
+🔗 LinkedIn: [shaik-mahaboob-basha-java](https://www.linkedin.com/in/shaik-mahaboob-basha-java)
 
-GitHub:
-github.com/shaikbasha-dev
+💻 GitHub: [shaikbasha-dev](https://github.com/shaikbasha-dev)
 
 ⭐ Open to Work
