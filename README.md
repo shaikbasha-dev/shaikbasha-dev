@@ -3,9 +3,13 @@
  Java Full Stack Developer | Java | Python | Oracle SQL | Open to Work
 
 •	Java Full Stack Developer with training in Java, Angular, HTML, CSS, JavaScript and Oracle SQL.
+
 •	Continuously learning and building real-world Java Full Stack applications.
+
 •	Skilled in Java, Angular, JDBC, Oracle SQL, Git and GitHub.
+
 •	Interested in Software Engineer and Java Full Stack Developer roles.
+
 •	Anantapur, Andhra Pradesh, India
 
 ##  Tech Stack
