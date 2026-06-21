@@ -43,9 +43,13 @@
 **Publication**
 
 **Home Automation and Vehicle Speed Detection using Internet of Things (IoT) with Google Assistant**
+
 Published in Gradiva Review Journal
+
 ISSN: 0363-8057
+
 DOI: 10.37897.GRJ.2021.V7I11.21.4 9876
+
 This research focuses on smart home automation integrated with Google Assistant and real-time vehicle speed detection using IoT technologies.
 
 ##  Connect with me
