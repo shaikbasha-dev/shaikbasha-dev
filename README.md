@@ -1,63 +1,158 @@
-# Hi there  I'm Shaik Mahaboob Basha
+# Shaik Mahaboob Basha
 
- Java Full Stack Developer | Java | Python | Oracle SQL | Open to Work
+Java Full Stack Developer | Java | Python | Oracle SQL | Open to Work
 
-•	Java Full Stack Developer with training in Java, Angular, HTML, CSS, JavaScript and Oracle SQL.
 
-•	Continuously learning and building real-world Java Full Stack applications.
+ABOUT
 
-•	Skilled in Java, Angular, JDBC, Oracle SQL, Git and GitHub.
+Passionate Java Full Stack Developer with hands-on training in Java, Python, Angular, HTML5, CSS3, JavaScript, JDBC and Oracle SQL.
 
-•	Interested in Software Engineer and Java Full Stack Developer roles.
+Strong understanding of frontend development, backend programming and database technologies with practical experience through projects, internships and GitHub repositories.
 
-•	Anantapur, Andhra Pradesh, India
+Interested in Software Engineer and Java Full Stack Developer opportunities.
 
-##  Tech Stack
 
-**Programming Languages**
+TECHNICAL SKILLS
 
-•	Java  	•	Python
+Programming Languages
 
-**Frontend**
+Java
 
-•	HTML5	•	CSS3	•	JavaScript	•	TypeScript	•	Angular
+Python
 
-**Backend & Database**
 
-•	JDBC  	•	Java Collections Framework	•	Oracle SQL  	•	Oracle Database 10g
+Frontend Technologies
 
-**Tools**
+HTML5
 
-•	Git	•	GitHub	•	Maven	•	Eclipse IDE	•	IntelliJ IDEA	•	VS Code
+CSS3
 
-##  Projects
+JavaScript
 
-### Portfolio Website
+TypeScript
 
-* Responsive portfolio website developed using HTML5, CSS3 and JavaScript.
+Angular
 
-### Home Automation and Vehicle Speed Detection using IoT with Google Assistant
 
-* Developed an IoT-based smart home automation and vehicle speed detection system.
+Backend Technologies
 
-**Publication**
+Java Collections Framework
 
-**Home Automation and Vehicle Speed Detection using Internet of Things (IoT) with Google Assistant**
+JDBC
+
+Spring Boot (Learning)
+
+Hibernate (Learning)
+
+
+Database Technologies
+
+Oracle SQL
+
+Oracle Database 10g
+
+MySQL (Learning)
+
+
+Tools
+
+Git
+
+GitHub
+
+Maven
+
+IntelliJ IDEA
+
+Eclipse IDE
+
+Visual Studio Code
+
+
+Testing & Methodologies
+
+SDLC
+
+STLC
+
+Manual Testing
+
+
+REPOSITORY CATEGORIES
+
+Backend Development
+
+Core Java
+
+Java OOP Concepts
+
+Exception Handling
+
+Multithreading
+
+Collections Framework
+
+
+Database Technologies
+
+JDBC with MySQL
+
+JDBC Projects
+
+Oracle SQL
+
+
+Frontend Development
+
+HTML5
+
+CSS3
+
+JavaScript
+
+
+Professional Repositories
+
+Full Stack and Manual Testing Internship
+
+Professional Certifications
+
+Research Publications
+
+Resume Portfolio
+
+
+PROJECTS
+
+Portfolio Website
+
+Responsive portfolio website developed using HTML5, CSS3 and JavaScript.
+
+
+Home Automation and Vehicle Speed Detection using IoT with Google Assistant
+
+IoT based smart home automation and vehicle speed detection system integrated with Google Assistant.
+
+
+PUBLICATION
+
+Home Automation and Vehicle Speed Detection using Internet of Things (IoT) with Google Assistant
 
 Published in Gradiva Review Journal
 
 ISSN: 0363-8057
 
-DOI: 10.37897.GRJ.2021.V7I11.21.4 9876
+DOI:
+10.37897.GRJ.2021.V7I11.21.49876
 
-This research focuses on smart home automation integrated with Google Assistant and real-time vehicle speed detection using IoT technologies.
 
-##  Connect with me
+CONTACT
 
- Email: [smbashadev@gmail.com](mailto:smbashadev@gmail.com)
+Email:
+smbashadev@gmail.com
 
- LinkedIn: [shaik-mahaboob-basha-java](https://www.linkedin.com/in/shaik-mahaboob-basha-java)
+LinkedIn:
+www.linkedin.com/in/shaik-mahaboob-basha-java
 
- GitHub: [shaikbasha-dev](https://github.com/shaikbasha-dev)
-
-⭐ Open to Work
+GitHub:
+github.com/shaikbasha-dev
