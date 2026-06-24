@@ -1,6 +1,6 @@
 # Shaik Mahaboob Basha
 
-# Java Full Stack Developer | Java | Python | Oracle SQL | Open to Work
+## Java Full Stack Developer | Java | Python | Oracle SQL | Open to Work
 
 
 ## ABOUT
