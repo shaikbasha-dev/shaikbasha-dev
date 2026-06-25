@@ -67,7 +67,7 @@ DOI: 10.37897.GRJ.2021.V7I11.21.49876
 [smbashadev@gmail.com](smbashadev@gmail.com)
 
 ### LinkedIn:
-[www.linkedin.com/in/shaik-mahaboob-basha-java](www.linkedin.com/in/shaik-mahaboob-basha-java)
+[www.linkedin.com/in/shaik-mahaboob-basha-java](www.linkedin.com/in/shaikbasha-dev)
 
 ### GitHub:
 [github.com/shaikbasha-dev](github.com/shaikbasha-dev)
