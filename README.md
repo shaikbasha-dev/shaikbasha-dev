@@ -38,7 +38,7 @@ Frontend Development: HTML5, CSS3, JavaScript
 Professional Repositories: Full Stack and Manual Testing Internship, Professional Certifications, Research Publications, Resume Portfolio
 
 
-# FEATURED REPOSITORIES
+## FEATURED REPOSITORIES
 
 Core Java
 Java OOP Concepts
@@ -55,7 +55,7 @@ CSS3
 JavaScript
 
 
-# PROJECTS
+## PROJECTS
 
 ## Java JDBC Student Management System
 
@@ -114,7 +114,7 @@ ISSN: 0363-8057
 DOI: 10.37897.GRJ.2021.V7I11.21.49876
 
 
-# CAREER OBJECTIVE
+## CAREER OBJECTIVE
 
 Seeking an entry-level Software Engineer / Java Full Stack Developer opportunity where I can apply my technical skills, contribute to real-world projects, continuously learn new technologies, and grow as a professional software developer.
 
