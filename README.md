@@ -11,6 +11,48 @@ Strong understanding of frontend development, backend programming, and database 
 
 Actively seeking entry-level Software Engineer and Java Full Stack Developer opportunities where I can contribute, learn, and grow.
 
+---
+
+## TECH STACK
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend
+
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Database
+
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database_10g-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Testing
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-6A5ACD?style=for-the-badge)
+![STLC](https://img.shields.io/badge/STLC-20B2AA?style=for-the-badge)
+
+---
 
 ## TECHNICAL SKILLS
 
