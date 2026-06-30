@@ -147,7 +147,7 @@ JavaScript
 
 # ACHIEVEMENTS
 
-- 📄 Published a research paper titled **"Home Automation and Vehicle Speed Detection using Internet of Things (IoT) with Google Assistant"** in the **Gradiva Review Journal** (ISSN: 0363-8057).
+-  Published a research paper titled **"Home Automation and Vehicle Speed Detection using Internet of Things (IoT) with Google Assistant"** in the **Gradiva Review Journal** (ISSN: 0363-8057).
 
 -  Successfully completed **Java & Python Full Stack Development Internship** with hands-on training in Java, Python, HTML5, CSS3, JavaScript, Angular, JDBC, and Oracle SQL.
 
