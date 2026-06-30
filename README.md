@@ -182,7 +182,7 @@ Seeking an entry-level Software Engineer / Java Full Stack Developer opportunity
 
 ### Email
 
-[smbashadev@gmail.com](mailto:smbashadev@gmail.com)
+[Email](mailto:smbashadev@gmail.com)
 
 ### LinkedIn
 
