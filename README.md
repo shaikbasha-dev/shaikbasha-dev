@@ -56,28 +56,28 @@ Actively seeking entry-level Software Engineer and Java Full Stack Developer opp
 
 ## TECHNICAL SKILLS
 
-Programming Languages: Java, Python
+**Programming Languages:** Java, Python
 
-Frontend Technologies: HTML5, CSS3, JavaScript, TypeScript, Angular
+**Frontend Technologies:** HTML5, CSS3, JavaScript, TypeScript, Angular
 
-Backend Technologies: Java Collections Framework, JDBC
+**Backend Technologies:** Java Collections Framework, JDBC
 
-Database Technologies: Oracle SQL, Oracle Database 10g
+**Database Technologies:** Oracle SQL, Oracle Database 10g
 
-Tools: Git, GitHub, Maven, IntelliJ IDEA, Eclipse IDE, Visual Studio Code
+**Tools:** Git, GitHub, Maven, IntelliJ IDEA, Eclipse IDE, Visual Studio Code
 
-Testing & Methodologies: SDLC, STLC, Manual Testing
+**Testing & Methodologies:** SDLC, STLC, Manual Testing
 
 
 ## REPOSITORY CATEGORIES
 
-Backend Development: Core Java, Java OOP Concepts, Exception Handling, Multithreading, Java Collections Framework, Python
+**Backend Development:** Core Java, Java OOP Concepts, Exception Handling, Multithreading, Java Collections Framework, Python
 
-Database Technologies: Oracle SQL, JDBC with MySQL, Java JDBC Student Management System, Java JDBC MySQL Database Connectivity Demo
+**Database Technologies:** Oracle SQL, JDBC with MySQL, Java JDBC Student Management System, Java JDBC MySQL Database Connectivity Demo
 
-Frontend Development: HTML5, CSS3, JavaScript
+**Frontend Development:** HTML5, CSS3, JavaScript
 
-Professional Repositories: Full Stack and Manual Testing Internship, Professional Certifications, Research Publications, Resume Portfolio
+**Professional Repositories:** Full Stack and Manual Testing Internship, Professional Certifications, Research Publications, Resume Portfolio
 
 
 ## FEATURED REPOSITORIES
@@ -143,6 +143,23 @@ JavaScript
 - Implemented vehicle speed detection using IoT sensors.
 - Enabled voice-controlled automation through Google Assistant.
 - Published the project in an international journal.
+
+
+# ACHIEVEMENTS
+
+- 📄 Published a research paper titled **"Home Automation and Vehicle Speed Detection using Internet of Things (IoT) with Google Assistant"** in the **Gradiva Review Journal** (ISSN: 0363-8057).
+
+-  Successfully completed **Java & Python Full Stack Development Internship** with hands-on training in Java, Python, HTML5, CSS3, JavaScript, Angular, JDBC, and Oracle SQL.
+
+-  Successfully completed **Manual Testing Internship**, gaining practical knowledge of SDLC, STLC, software testing concepts, and testing methodologies.
+
+-  Earned multiple professional certifications in software development and related technologies.
+
+-  Built and maintained professional GitHub repositories covering Java, Python, Oracle SQL, HTML5, CSS3, JavaScript, JDBC, Multithreading, Exception Handling, Collections Framework, and other core programming concepts.
+
+-  Developed multiple hands-on projects including **Java JDBC Student Management System**, **Java JDBC MySQL Database Connectivity Demo**, and a **Portfolio Website**.
+
+-  Continuously expanding technical knowledge by building structured learning repositories and practical projects for Java Full Stack Development.
 
 
 ## PUBLICATION
