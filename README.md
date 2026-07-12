@@ -1,12 +1,12 @@
 # Shaik Mahaboob Basha
 
-## Aspiring Java Full Stack Developer | Java | JDBC | SQL | MySQL | Python | Manual Testing | Open to Work
+## Aspiring Java Full Stack Developer | Java | JDBC | SQL | MySQL | Python | Angular | TypeScript | Manual Testing | Open to Work
 
-Java Full Stack Developer aspirant with structured technical training and hands-on practice in Java, Object-Oriented Programming, Exception Handling, Multithreading, Java Collections Framework, JDBC, SQL, MySQL, Python, HTML5, CSS3, JavaScript, and Manual Testing.
+Java Full Stack Developer aspirant with structured technical training and hands-on practice in Java, Object-Oriented Programming, Exception Handling, Multithreading, Java Collections Framework, JDBC, SQL, MySQL, Python, HTML5, CSS3, JavaScript, TypeScript, Angular, and Manual Testing.
 
 My GitHub portfolio documents my technical learning, practical implementations, Java database connectivity projects, professional certifications, technical training, and research publication.
 
-I focus on building strong programming fundamentals, understanding backend and database connectivity concepts, maintaining well-organized technical documentation, and continuously improving my software development skills through practical learning.
+I focus on building strong programming fundamentals, understanding backend and database connectivity concepts, strengthening frontend development knowledge, maintaining well-organized technical documentation, and continuously improving my software development skills through practical learning.
 
 I am actively seeking **entry-level Software Engineer and Java Full Stack Developer opportunities** where I can apply my programming and software development knowledge, contribute to real-world applications, and continue growing as a professional developer.
 
@@ -18,6 +18,8 @@ I am actively seeking **entry-level Software Engineer and Java Full Stack Develo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Java and Backend Development
 
@@ -31,6 +33,8 @@ I am actively seeking **entry-level Software Engineer and Java Full Stack Develo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Database Technologies
 
@@ -58,11 +62,11 @@ I am actively seeking **entry-level Software Engineer and Java Full Stack Develo
 
 ## Technical Skills
 
-**Programming Languages:** Java, Python
+**Programming Languages:** Java, Python, JavaScript, TypeScript
 
 **Java Development:** Core Java, Object-Oriented Programming, Exception Handling, Multithreading, Java Collections Framework, JDBC
 
-**Frontend Development:** HTML5, CSS3, JavaScript
+**Frontend Development:** HTML5, CSS3, JavaScript, TypeScript, Angular
 
 **Database Technologies:** Oracle SQL, MySQL, SQL, Relational Database Concepts
 
@@ -237,28 +241,79 @@ A Java database persistence project demonstrating:
 
 ## Professional Certifications
 
-I maintain a dedicated GitHub repository to document my professional certifications and continuous technical learning achievements.
+I maintain a dedicated GitHub repository to document my professional certifications and continuous technical learning achievements across Java, Python, JavaScript, SQL, and frontend development.
 
 ### Programming using Java - Special Batches
 
 **Platform:** Infosys Springboard  
 **Course Provider:** Skillsoft  
 **Year:** 2026  
-**Skill:** Java
+**Focus Area:** Java Programming and Software Development Fundamentals
 
-This certification represents continued learning and development of Java programming knowledge.
+Completed structured Java programming learning covering Java fundamentals, variables, data types, operators, control structures, Object-Oriented Programming, methods, constructors, encapsulation, abstraction, inheritance, polymorphism, exception handling, unit testing, regular expressions, generics, and the Java Collections Framework.
 
-### Technical Certification Areas
+### Getting Started with Java: The Fundamentals of Java Programming
 
-My certification portfolio also includes learning credentials related to:
+**Platform:** Infosys Springboard  
+**Year:** 2026  
+**Completed:** July 11, 2026  
+**Certificate Issued:** July 12, 2026  
+**Focus Area:** Java Programming Fundamentals
 
-* Python
-* Java
-* JavaScript
-* SQL and Relational Databases
-* Frontend Development with HTML and CSS
+Successfully completed the Getting Started with Java: The Fundamentals of Java Programming course through Infosys Springboard. This course completion reflects continued development of Java programming fundamentals and structured technical learning.
 
-My certification repository is maintained as a centralized record of professional learning and technical skill development.
+### Programming for Everybody (Getting Started with Python)
+
+**Platform:** Coursera  
+**Organization:** University of Michigan  
+**Year:** 2023  
+**Focus Area:** Python Programming Fundamentals
+
+Completed foundational Python programming learning covering Python basics, variables, data types, conditional statements, loops, and functions.
+
+### Introduction to Java
+
+**Platform:** Coursera  
+**Organization:** LearnQuest  
+**Year:** 2023  
+**Focus Area:** Java Programming Fundamentals
+
+Completed introductory Java learning covering Java fundamentals, Object-Oriented Programming, methods, classes, and exception handling basics.
+
+### JavaScript Basics
+
+**Platform:** Coursera  
+**Organization:** University of California, Davis  
+**Year:** 2022  
+**Focus Area:** JavaScript and Web Development Fundamentals
+
+Completed foundational JavaScript learning covering JavaScript fundamentals, variables, functions, and Document Object Model concepts.
+
+### SQL and Relational Databases 101
+
+**Platform:** IBM Cognitive Class  
+**Year:** 2023  
+**Focus Area:** SQL and Relational Database Fundamentals
+
+Completed structured database learning covering SQL queries, database design, relational database concepts, and data manipulation.
+
+### Front End Development - HTML
+
+**Platform:** Great Learning  
+**Year:** 2024  
+**Focus Area:** HTML5 and Frontend Development
+
+Completed frontend development learning covering HTML5, forms, tables, and semantic HTML elements.
+
+### Front End Development - CSS
+
+**Platform:** Great Learning  
+**Year:** 2024  
+**Focus Area:** CSS3 and Frontend Styling
+
+Completed frontend styling learning covering CSS styling, Flexbox, responsive design, and layout techniques.
+
+My Professional Certifications repository serves as a centralized record of completed technical courses, certificates, and continuous professional learning achievements.
 
 **View Professional Certifications:** [Professional-Certifications](https://github.com/shaikbasha-dev/Professional-Certifications)
 
@@ -276,7 +331,9 @@ Achievement badges documented in my GitHub portfolio include:
 * Duelist
 * The Fledgling
 
-These badges represent learning milestones and course participation achievements completed through the Infosys Springboard learning platform.
+I have also earned the **Getting Started with Java: The Fundamentals of Java Programming** course completion badge associated with my Java fundamentals learning.
+
+These badges represent learning milestones, course completion, and participation achievements completed through the Infosys Springboard learning platform.
 
 The achievement badge files are maintained in my **Professional Certifications** repository.
 
@@ -299,6 +356,7 @@ Completed structured technical training covering programming, frontend developme
 * HTML5
 * CSS3
 * JavaScript
+* TypeScript
 * Angular
 * JDBC
 * Oracle SQL
@@ -372,6 +430,7 @@ My research publication details are maintained in a dedicated GitHub repository.
 * Documented 100 Manual Testing interview questions and answers
 * Added professional repository overview infographics across technical repositories
 * Maintained professional certification records and achievement badges
+* Completed the Getting Started with Java: The Fundamentals of Java Programming course through Infosys Springboard
 * Completed Java and Python Full Stack Development technical training
 * Completed Manual Testing technical training
 * Published an IoT-based research paper in an international journal
@@ -388,7 +447,7 @@ I am currently focused on:
 * Practicing Java Collections Framework
 * Improving JDBC and database connectivity knowledge
 * Strengthening SQL and database concepts
-* Revising HTML5, CSS3, and JavaScript fundamentals
+* Revising HTML5, CSS3, JavaScript, TypeScript, and Angular fundamentals
 * Revising Python programming concepts
 * Strengthening Manual Testing, SDLC, and STLC knowledge
 * Preparing for Java Full Stack Developer technical interviews
