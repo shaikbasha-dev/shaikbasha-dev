@@ -324,6 +324,20 @@ Completed structured Manual Testing training covering software quality and testi
 
 ---
 
+## Education
+
+### Bachelor of Technology (B.Tech) - Electronics and Communication Engineering
+
+**College:** Gates Institute of Technology (Autonomous)  
+**University:** Jawaharlal Nehru Technological University, Anantapur (JNTUA)  
+**Graduated:** 2022
+
+Completed a Bachelor of Technology in Electronics and Communication Engineering, developing a strong foundation in analytical thinking, problem-solving, and technical concepts.
+
+During my academic journey and after completing my graduation, I developed a strong interest in software development and expanded my technical knowledge through Java and Python Full Stack Development training, Manual Testing training, structured technical learning, practical programming, and software development projects.
+
+---
+
 ## Research Publication
 
 ### Home Automation and Vehicle Speed Detection using Internet of Things (IoT) with Google Assistant
