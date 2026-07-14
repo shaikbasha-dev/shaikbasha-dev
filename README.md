@@ -6,7 +6,7 @@ Java Full Stack Developer aspirant with structured technical training and hands-
 
 My GitHub portfolio documents my technical learning, practical implementations, Java database connectivity projects, professional certifications, technical training, and research publication.
 
-I focus on building strong programming fundamentals, understanding backend and database connectivity concepts, strengthening frontend development knowledge, maintaining well-organized technical documentation, and continuously improving my software development skills through practical learning.
+I focus on building strong programming fundamentals, understanding backend and database connectivity concepts, strengthening frontend development knowledge, maintaining well-organized technical documentation, and continuously improving my software development skills through practical learning and professional certification courses.
 
 I am actively seeking **entry-level Software Engineer and Java Full Stack Developer opportunities** where I can apply my programming and software development knowledge, contribute to real-world applications, and continue growing as a professional developer.
 
@@ -66,7 +66,7 @@ I am actively seeking **entry-level Software Engineer and Java Full Stack Develo
 
 **Java Development:** Core Java, Object-Oriented Programming, Exception Handling, Multithreading, Java Collections Framework, JDBC
 
-**Frontend Development:** HTML5, CSS3, JavaScript, TypeScript, Angular
+**Frontend Development:** HTML5, Semantic HTML, HTML Forms, CSS3, JavaScript, TypeScript, Angular
 
 **Database Technologies:** Oracle SQL, MySQL, SQL, Relational Database Concepts
 
@@ -124,7 +124,7 @@ The repository also contains dedicated Java Collections Framework interview prep
 
 #### 05 - HTML5
 
-Structured HTML5 repository covering HTML fundamentals, document structure, headings, text formatting, hyperlinks, media elements, lists, tables, forms, validation, attributes, and interview preparation.
+Structured HTML5 repository covering HTML fundamentals, document structure, headings, text formatting, hyperlinks, lists, tables, forms, input elements, validation, semantic elements, navigation, multimedia, audio, video, images, iframes, accessibility, web security fundamentals, and interview preparation.
 
 **Repository:** [05-HTML5](https://github.com/shaikbasha-dev/05-HTML5)
 
@@ -241,7 +241,7 @@ A Java database persistence project demonstrating:
 
 ## Professional Certifications
 
-I maintain a dedicated GitHub repository to document my professional certifications and continuous technical learning achievements across Java, Python, JavaScript, SQL, and frontend development.
+I maintain a dedicated GitHub repository to document my professional certifications and continuous technical learning achievements across Java, Python, JavaScript, SQL, HTML5, and frontend development.
 
 ### Programming using Java - Special Batches
 
@@ -261,6 +261,15 @@ Completed structured Java programming learning covering Java fundamentals, varia
 **Focus Area:** Java Programming Fundamentals
 
 Successfully completed the Getting Started with Java: The Fundamentals of Java Programming course through Infosys Springboard. This course completion reflects continued development of Java programming fundamentals and structured technical learning.
+
+### HTML5 - The Language
+
+**Platform:** Infosys Springboard  
+**Year:** 2026  
+**Completed:** July 14, 2026  
+**Focus Area:** HTML5 and Web Development Fundamentals
+
+Successfully completed the HTML5 - The Language course through Infosys Springboard. The course strengthened my understanding of HTML document structure, elements and attributes, lists, tables, forms, form validation, semantic HTML, navigation, multimedia elements, iframes, accessibility, HTML coding practices, and web security fundamentals.
 
 ### Programming for Everybody (Getting Started with Python)
 
@@ -392,7 +401,7 @@ Completed structured Manual Testing training covering software quality and testi
 
 Completed a Bachelor of Technology in Electronics and Communication Engineering, developing a strong foundation in analytical thinking, problem-solving, and technical concepts.
 
-During my academic journey and after completing my graduation, I developed a strong interest in software development and expanded my technical knowledge through Java and Python Full Stack Development training, Manual Testing training, structured technical learning, practical programming, and software development projects.
+During my academic journey and after completing my graduation, I developed a strong interest in software development and expanded my technical knowledge through Java and Python Full Stack Development training, Manual Testing training, structured technical learning, practical programming, professional certification courses, and software development projects.
 
 ---
 
@@ -431,10 +440,12 @@ My research publication details are maintained in a dedicated GitHub repository.
 * Added professional repository overview infographics across technical repositories
 * Maintained professional certification records and achievement badges
 * Completed the Getting Started with Java: The Fundamentals of Java Programming course through Infosys Springboard
+* Completed the HTML5 - The Language course through Infosys Springboard
+* Strengthened HTML5 knowledge through structured learning and assessment
 * Completed Java and Python Full Stack Development technical training
 * Completed Manual Testing technical training
 * Published an IoT-based research paper in an international journal
-* Continuously strengthening technical knowledge through structured learning and practical implementation
+* Continuously strengthening technical knowledge through structured learning, professional certifications, and practical implementation
 
 ---
 
@@ -442,12 +453,12 @@ My research publication details are maintained in a dedicated GitHub repository.
 
 I am currently focused on:
 
-* Revising Core Java fundamentals
-* Strengthening Object-Oriented Programming concepts
-* Practicing Java Collections Framework
+* Revising Java programming and Object-Oriented Programming concepts
+* Strengthening Java Collections Framework knowledge
 * Improving JDBC and database connectivity knowledge
-* Strengthening SQL and database concepts
-* Revising HTML5, CSS3, JavaScript, TypeScript, and Angular fundamentals
+* Strengthening SQL and relational database concepts
+* Strengthening frontend development fundamentals through structured revision and certification learning
+* Revising CSS3, JavaScript, TypeScript, and Angular concepts
 * Revising Python programming concepts
 * Strengthening Manual Testing, SDLC, and STLC knowledge
 * Preparing for Java Full Stack Developer technical interviews
