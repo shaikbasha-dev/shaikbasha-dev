@@ -241,7 +241,7 @@ A Java database persistence project demonstrating:
 
 ## Professional Certifications
 
-I maintain a dedicated GitHub repository to document my professional certifications and continuous technical learning achievements across Java, Python, JavaScript, SQL, HTML5, and frontend development.
+I maintain a dedicated GitHub repository to document my professional certifications and continuous technical learning achievements across Java, Python, JavaScript, SQL, HTML5, CSS3, and frontend development.
 
 ### Programming using Java - Special Batches
 
@@ -270,6 +270,16 @@ Successfully completed the Getting Started with Java: The Fundamentals of Java P
 **Focus Area:** HTML5 and Web Development Fundamentals
 
 Successfully completed the HTML5 - The Language course through Infosys Springboard. The course strengthened my understanding of HTML document structure, elements and attributes, lists, tables, forms, form validation, semantic HTML, navigation, multimedia elements, iframes, accessibility, HTML coding practices, and web security fundamentals.
+
+### CSS3
+
+**Platform:** Infosys Springboard  
+**Year:** 2026  
+**Completed:** July 14, 2026  
+**Certificate Issued:** July 15, 2026  
+**Focus Area:** CSS3 and Frontend Web Styling
+
+Successfully completed the CSS3 course through Infosys Springboard. The course strengthened my understanding of CSS fundamentals, styling rules, selectors, colors, backgrounds, text and font styling, the CSS box model, margins, borders, padding, display properties, positioning, layout techniques, responsive web design, media queries, pseudo-classes, pseudo-elements, transitions, transformations, animations, and modern web styling practices.
 
 ### Programming for Everybody (Getting Started with Python)
 
@@ -442,6 +452,8 @@ My research publication details are maintained in a dedicated GitHub repository.
 * Completed the Getting Started with Java: The Fundamentals of Java Programming course through Infosys Springboard
 * Completed the HTML5 - The Language course through Infosys Springboard
 * Strengthened HTML5 knowledge through structured learning and assessment
+* Completed the CSS3 course through Infosys Springboard
+* Strengthened CSS3 and frontend web styling knowledge through structured learning and assessment
 * Completed Java and Python Full Stack Development technical training
 * Completed Manual Testing technical training
 * Published an IoT-based research paper in an international journal
@@ -458,7 +470,8 @@ I am currently focused on:
 * Improving JDBC and database connectivity knowledge
 * Strengthening SQL and relational database concepts
 * Strengthening frontend development fundamentals through structured revision and certification learning
-* Revising CSS3, JavaScript, TypeScript, and Angular concepts
+* Reinforcing completed HTML5 and CSS3 revision through practical application
+* Revising JavaScript, TypeScript, and Angular concepts
 * Revising Python programming concepts
 * Strengthening Manual Testing, SDLC, and STLC knowledge
 * Preparing for Java Full Stack Developer technical interviews
