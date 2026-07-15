@@ -1,6 +1,6 @@
 # Shaik Mahaboob Basha
 
-## Aspiring Java Full Stack Developer | Java | JDBC | SQL | MySQL | Python | Angular | TypeScript | Manual Testing | Open to Work
+## Trained and Interned Java Full Stack Developer | Java | JDBC | SQL | MySQL | Python | Angular | TypeScript | Manual Testing | Open to Work
 
 Java Full Stack Developer aspirant with structured technical training and hands-on practice in Java, Object-Oriented Programming, Exception Handling, Multithreading, Java Collections Framework, JDBC, SQL, MySQL, Python, HTML5, CSS3, JavaScript, TypeScript, Angular, and Manual Testing.
 
@@ -342,9 +342,13 @@ My Professional Certifications repository serves as a centralized record of comp
 
 Along with professional certifications, I have earned **7 documented digital badges** through structured learning and achievement activities on Infosys Springboard.
 
-These badges represent course completion, quiz resource completion, platform participation, and progressive continuous learning milestones.
+These badges represent Java course completion, platform participation, course completion milestones, quiz resource completion, and progressive continuous learning achievements.
 
 ### Getting Started with Java: The Fundamentals of Java Programming
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Getting_Started_with_Java_Skillsoft_Badge.png" alt="Getting Started with Java: The Fundamentals of Java Programming Skillsoft Badge" width="200">
+</p>
 
 **Learning Platform:** Infosys Springboard  
 **Badge Provider:** Skillsoft  
@@ -354,7 +358,13 @@ These badges represent course completion, quiz resource completion, platform par
 
 This course completion badge represents the successful completion of structured Java programming fundamentals learning.
 
+---
+
 ### The Fledgling
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/The_Fledgling_Infosys_Springboard_Badge.png" alt="The Fledgling Infosys Springboard Achievement Badge" width="200">
+</p>
 
 **Learning Platform:** Infosys Springboard  
 **Awarded:** July 10, 2026  
@@ -362,7 +372,13 @@ This course completion badge represents the successful completion of structured 
 
 The Fledgling badge represents the initial learning milestone associated with registration on the Wingspan learning platform.
 
+---
+
 ### Duelist
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Duelist_First_Quiz_Resource_Infosys_Springboard_Badge.png" alt="Duelist Infosys Springboard Achievement Badge" width="200">
+</p>
 
 **Learning Platform:** Infosys Springboard  
 **Awarded:** July 10, 2026  
@@ -370,7 +386,13 @@ The Fledgling badge represents the initial learning milestone associated with re
 
 The Duelist badge represents the beginning of structured quiz-based learning and assessment activities.
 
+---
+
 ### Warrior
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Warrior_First_Course_Infosys_Springboard_Badge.png" alt="Warrior Infosys Springboard Achievement Badge" width="200">
+</p>
 
 **Learning Platform:** Infosys Springboard  
 **Awarded:** July 10, 2026  
@@ -378,7 +400,13 @@ The Duelist badge represents the beginning of structured quiz-based learning and
 
 The Warrior badge represents the first documented course completion milestone through the learning platform.
 
+---
+
 ### Ace
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Ace_25_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Ace Infosys Springboard Achievement Badge" width="200">
+</p>
 
 **Learning Platform:** Infosys Springboard  
 **Awarded:** July 10, 2026  
@@ -386,7 +414,13 @@ The Warrior badge represents the first documented course completion milestone th
 
 The Ace badge represents the successful completion of 25 quiz resources through structured learning and assessment activities.
 
+---
+
 ### Genie
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Genie_100_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Genie Infosys Springboard Achievement Badge" width="200">
+</p>
 
 **Learning Platform:** Infosys Springboard  
 **Awarded:** July 10, 2026  
@@ -394,7 +428,13 @@ The Ace badge represents the successful completion of 25 quiz resources through 
 
 The Genie badge represents continued participation in structured quiz-based learning and the completion of 100 quiz resources.
 
+---
+
 ### Wizard
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Wizard_250_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Wizard Infosys Springboard Achievement Badge" width="200">
+</p>
 
 **Learning Platform:** Infosys Springboard  
 **Awarded:** July 14, 2026  
