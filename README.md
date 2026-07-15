@@ -4,9 +4,9 @@
 
 Java Full Stack Developer aspirant with structured technical training and hands-on practice in Java, Object-Oriented Programming, Exception Handling, Multithreading, Java Collections Framework, JDBC, SQL, MySQL, Python, HTML5, CSS3, JavaScript, TypeScript, Angular, and Manual Testing.
 
-My GitHub portfolio documents my technical learning, practical implementations, Java database connectivity projects, professional certifications, technical training, and research publication.
+My GitHub portfolio documents my technical learning, practical implementations, Java database connectivity projects, professional certifications, digital achievement badges, technical training, and research publication.
 
-I focus on building strong programming fundamentals, understanding backend and database connectivity concepts, strengthening frontend development knowledge, maintaining well-organized technical documentation, and continuously improving my software development skills through practical learning and professional certification courses.
+I focus on building strong programming fundamentals, understanding backend and database connectivity concepts, strengthening frontend development knowledge, maintaining well-organized technical documentation, and continuously improving my software development skills through practical learning, professional certification courses, quiz-based assessments, and structured technical revision.
 
 I am actively seeking **entry-level Software Engineer and Java Full Stack Developer opportunities** where I can apply my programming and software development knowledge, contribute to real-world applications, and continue growing as a professional developer.
 
@@ -241,7 +241,7 @@ A Java database persistence project demonstrating:
 
 ## Professional Certifications
 
-I maintain a dedicated GitHub repository to document my professional certifications and continuous technical learning achievements across Java, Python, JavaScript, SQL, HTML5, CSS3, and frontend development.
+I maintain a dedicated GitHub repository to document my professional certifications, digital achievement badges, and continuous technical learning achievements across Java, Python, JavaScript, SQL, HTML5, CSS3, and frontend development.
 
 ### Programming using Java - Special Batches
 
@@ -332,31 +332,92 @@ Completed frontend development learning covering HTML5, forms, tables, and seman
 
 Completed frontend styling learning covering CSS styling, Flexbox, responsive design, and layout techniques.
 
-My Professional Certifications repository serves as a centralized record of completed technical courses, certificates, and continuous professional learning achievements.
+My Professional Certifications repository serves as a centralized record of completed technical courses, certificates, digital achievement badges, and continuous professional learning achievements.
 
 **View Professional Certifications:** [Professional-Certifications](https://github.com/shaikbasha-dev/Professional-Certifications)
 
 ---
 
-## Infosys Springboard Achievement Badges
+## Infosys Springboard Digital Achievement Badges
 
-Along with professional certifications, I have earned achievement badges through my learning activities on Infosys Springboard.
+Along with professional certifications, I have earned **7 documented digital badges** through structured learning and achievement activities on Infosys Springboard.
 
-Achievement badges documented in my GitHub portfolio include:
+These badges represent course completion, quiz resource completion, platform participation, and progressive continuous learning milestones.
 
-* Warrior
-* Genie
-* Ace
-* Duelist
-* The Fledgling
+### Getting Started with Java: The Fundamentals of Java Programming
 
-I have also earned the **Getting Started with Java: The Fundamentals of Java Programming** course completion badge associated with my Java fundamentals learning.
+**Learning Platform:** Infosys Springboard  
+**Badge Provider:** Skillsoft  
+**Year:** 2026  
+**Achievement:** Java Fundamentals Course Completion  
+**Focus Area:** Java Programming Fundamentals
 
-These badges represent learning milestones, course completion, and participation achievements completed through the Infosys Springboard learning platform.
+This course completion badge represents the successful completion of structured Java programming fundamentals learning.
 
-The achievement badge files are maintained in my **Professional Certifications** repository.
+### The Fledgling
 
-**View Certifications and Achievement Badges:** [Professional-Certifications](https://github.com/shaikbasha-dev/Professional-Certifications)
+**Learning Platform:** Infosys Springboard  
+**Awarded:** July 10, 2026  
+**Achievement:** Registered on the Wingspan learning platform
+
+The Fledgling badge represents the initial learning milestone associated with registration on the Wingspan learning platform.
+
+### Duelist
+
+**Learning Platform:** Infosys Springboard  
+**Awarded:** July 10, 2026  
+**Achievement:** Completed the first quiz resource
+
+The Duelist badge represents the beginning of structured quiz-based learning and assessment activities.
+
+### Warrior
+
+**Learning Platform:** Infosys Springboard  
+**Awarded:** July 10, 2026  
+**Achievement:** Completed the first course
+
+The Warrior badge represents the first documented course completion milestone through the learning platform.
+
+### Ace
+
+**Learning Platform:** Infosys Springboard  
+**Awarded:** July 10, 2026  
+**Achievement:** Completed 25 quiz resources
+
+The Ace badge represents the successful completion of 25 quiz resources through structured learning and assessment activities.
+
+### Genie
+
+**Learning Platform:** Infosys Springboard  
+**Awarded:** July 10, 2026  
+**Achievement:** Completed 100 quiz resources
+
+The Genie badge represents continued participation in structured quiz-based learning and the completion of 100 quiz resources.
+
+### Wizard
+
+**Learning Platform:** Infosys Springboard  
+**Awarded:** July 14, 2026  
+**Achievement:** Completed 250 quiz resources
+
+The Wizard badge represents the successful completion of 250 quiz resources and documents a significant continuous learning and assessment milestone.
+
+### Achievement Progression
+
+My documented Infosys Springboard achievement progression includes:
+
+* The Fledgling - Registered on the Wingspan learning platform
+* Duelist - Completed the first quiz resource
+* Warrior - Completed the first course
+* Ace - Completed 25 quiz resources
+* Genie - Completed 100 quiz resources
+* Wizard - Completed 250 quiz resources
+
+These digital achievements reflect continued participation in structured learning, course completion, quiz-based assessments, and continuous professional skill development.
+
+The complete badge collection, badge images, and detailed achievement documentation are maintained in my **Professional Certifications** repository.
+
+**View Certifications and Digital Achievement Badges:** [Professional-Certifications](https://github.com/shaikbasha-dev/Professional-Certifications)
 
 ---
 
@@ -448,7 +509,14 @@ My research publication details are maintained in a dedicated GitHub repository.
 * Created a comprehensive Manual Testing knowledge repository
 * Documented 100 Manual Testing interview questions and answers
 * Added professional repository overview infographics across technical repositories
-* Maintained professional certification records and achievement badges
+* Maintained structured professional certification and digital achievement badge documentation
+* Documented 7 digital learning and achievement badges associated with Infosys Springboard learning activities
+* Earned The Fledgling badge for registering on the Wingspan learning platform
+* Earned the Duelist badge for completing the first quiz resource
+* Earned the Warrior badge for completing the first course
+* Earned the Ace badge for completing 25 quiz resources
+* Earned the Genie badge for completing 100 quiz resources
+* Earned the Wizard badge for completing 250 quiz resources
 * Completed the Getting Started with Java: The Fundamentals of Java Programming course through Infosys Springboard
 * Completed the HTML5 - The Language course through Infosys Springboard
 * Strengthened HTML5 knowledge through structured learning and assessment
@@ -457,7 +525,7 @@ My research publication details are maintained in a dedicated GitHub repository.
 * Completed Java and Python Full Stack Development technical training
 * Completed Manual Testing technical training
 * Published an IoT-based research paper in an international journal
-* Continuously strengthening technical knowledge through structured learning, professional certifications, and practical implementation
+* Continuously strengthening technical knowledge through structured learning, professional certifications, quiz-based assessments, technical revision, and practical implementation
 
 ---
 
@@ -476,6 +544,7 @@ I am currently focused on:
 * Strengthening Manual Testing, SDLC, and STLC knowledge
 * Preparing for Java Full Stack Developer technical interviews
 * Improving practical software development and problem-solving skills
+* Continuing structured technical learning and professional skill development
 
 My future learning roadmap includes expanding my Java backend development knowledge and building additional real-world software projects.
 
