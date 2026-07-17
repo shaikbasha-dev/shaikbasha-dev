@@ -1,613 +1,669 @@
-# Shaik Mahaboob Basha
+<h1 align="center">Shaik Mahaboob Basha</h1>
 
-## Trained and Interned Java Full Stack Developer | Java | JDBC | SQL | MySQL | Python | Angular | TypeScript | Manual Testing | Open to Work
+<p align="center">
+<strong>Java Full Stack Developer</strong>
+</p>
 
-Java Full Stack Developer aspirant with structured technical training and hands-on practice in Java, Object-Oriented Programming, Exception Handling, Multithreading, Java Collections Framework, JDBC, SQL, MySQL, Python, HTML5, CSS3, JavaScript, TypeScript, Angular, and Manual Testing.
+<p align="center">
+Passionate about building scalable Java applications, modern web solutions, and continuously improving software engineering skills through practical development and lifelong learning.
+</p>
 
-My GitHub portfolio documents my technical learning, practical implementations, Java database connectivity projects, professional certifications, digital achievement badges, technical training, and research publication.
+<p align="center">
+<a href="https://www.linkedin.com/in/shaik-mahaboob-basha">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:smbashadev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/shaikbasha-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+</p>
 
-I focus on building strong programming fundamentals, understanding backend and database connectivity concepts, strengthening frontend development knowledge, maintaining well-organized technical documentation, and continuously improving my software development skills through practical learning, professional certification courses, quiz-based assessments, and structured technical revision.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+JDBC;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Angular;Oracle+SQL+%7C+Python+%7C+Manual+Testing;Building+Clean+Code+and+Practical+Solutions" />
+</p>
 
-I am actively seeking **entry-level Software Engineer and Java Full Stack Developer opportunities** where I can apply my programming and software development knowledge, contribute to real-world applications, and continue growing as a professional developer.
+## About Me
 
----
+I'm a Java Full Stack Developer with a strong interest in building reliable, maintainable, and scalable software applications. My technical journey has been driven by continuous learning, practical implementation, structured documentation, and consistent hands-on development across backend, frontend, database, and software testing technologies.
+
+I enjoy transforming theoretical concepts into practical solutions through well-organized repositories, real-world coding exercises, and technical projects. Every repository in this GitHub profile reflects my commitment to writing clean code, maintaining professional documentation, and continuously improving as a software engineer.
+
+Currently, I am focused on expanding my expertise in enterprise Java development while building production-ready applications using modern software engineering practices.
+
+## Professional Profile
+
+- Java Full Stack Developer
+- Strong foundation in Core Java and Object-Oriented Programming
+- Hands-on experience with Spring Boot, Hibernate, JDBC, and Oracle SQL
+- Frontend development using HTML5, CSS3, JavaScript, and Angular
+- Knowledge of Python and Manual Testing methodologies
+- Understanding of SDLC, STLC, and software engineering principles
+- Experience with Git and GitHub version control
+- Strong interest in backend development and enterprise application design
+- Passionate about continuous learning and problem solving
+
+## Career Objective
+
+Seeking an opportunity as a **Java Full Stack Developer** where I can contribute to developing high-quality software solutions, collaborate with experienced engineering teams, and continuously enhance my technical expertise while delivering business value through clean, maintainable, and scalable applications.
+
+## What You'll Find in This Portfolio
+
+This GitHub profile represents my technical journey through structured learning, practical implementation, and continuous improvement.
+
+The repositories include:
+
+- Java Programming
+- Object-Oriented Programming
+- Exception Handling
+- Multithreading
+- Java Collections Framework
+- Oracle SQL
+- JDBC with MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Manual Testing
+- Professional Certifications
+- Research Publication
+- Technical Documentation
+
+Each repository is carefully organized with detailed explanations, practical examples, interview-oriented concepts, and real-world implementations to support both learning and professional software development.
 
 ## Technical Skills
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-### Java and Backend Development
+### Backend Development
 
-![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java Collections](https://img.shields.io/badge/Java_Collections_Framework-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+</p>
 
 ### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular" />
+</p>
 
 ### Database Technologies
 
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Testing and Methodologies
+- Oracle SQL
+- MySQL
+- JDBC
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-6A5ACD?style=for-the-badge)
-![STLC](https://img.shields.io/badge/STLC-20B2AA?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
+### Tools & Technologies
 
-### Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Testing & Methodologies
 
----
-
-## Technical Skills
-
-**Programming Languages:** Java, Python, JavaScript, TypeScript
-
-**Java Development:** Core Java, Object-Oriented Programming, Exception Handling, Multithreading, Java Collections Framework, JDBC
-
-**Frontend Development:** HTML5, Semantic HTML, HTML Forms, CSS3, JavaScript, TypeScript, Angular
-
-**Database Technologies:** Oracle SQL, MySQL, SQL, Relational Database Concepts
-
-**Software Testing:** Manual Testing, SDLC, STLC, Testing Types, Test Case Concepts, Defect Management
-
-**Development Methodologies:** Agile, Scrum
-
-**Development Tools:** Git, GitHub, IntelliJ IDEA, Eclipse IDE, Visual Studio Code
+- Manual Testing
+- SDLC
+- STLC
+- Agile Fundamentals
+- Software Development Best Practices
 
 ---
 
-## GitHub Skill Portfolio
+## Technical Expertise
 
-My GitHub portfolio contains **14 structured skill and practical project repositories** covering programming, frontend development, databases, Java database connectivity, Python, and software testing.
+- Java Application Development
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- Multithreading
+- Java Collections Framework
+- JDBC with MySQL
+- SQL Programming
+- Frontend Web Development
+- REST API Fundamentals
+- Version Control with Git & GitHub
+- Technical Documentation
+- Problem Solving
 
-Each repository is organized with structured documentation, topic-wise learning content, practical examples, interview preparation materials, and a visual repository overview.
+---
 
-### Java and Backend Development
+## GitHub Analytics
 
-#### 01 - Core Java
+<p align="center">
 
-Comprehensive Core Java repository covering Java fundamentals, Java architecture, program execution, data types, type casting, operators, control statements, arrays, strings, methods, and essential programming concepts.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikbasha-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-**Repository:** [01-Core-Java](https://github.com/shaikbasha-dev/01-Core-Java)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikbasha-dev&layout=compact&theme=github_dark&hide_border=true"/>
 
-#### 02 - Java OOP Concepts
+</p>
 
-Structured Java Object-Oriented Programming repository covering classes, objects, encapsulation, inheritance, polymorphism, abstraction, constructors, and core OOP principles.
+<p align="center">
 
-**Repository:** [02-Java-OOP-Concepts](https://github.com/shaikbasha-dev/02-Java-OOP-Concepts)
+<img src="https://streak-stats.demolab.com?user=shaikbasha-dev&theme=github-dark&hide_border=true"/>
 
-#### 03 - Java Exception Handling
+</p>
 
-Java Exception Handling repository covering exception fundamentals, exception hierarchy, checked and unchecked exceptions, `try`, `catch`, `finally`, `throw`, `throws`, and custom exceptions.
+<p align="center">
 
-**Repository:** [03-Java-Exception-Handling](https://github.com/shaikbasha-dev/03-Java-Exception-Handling)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikbasha-dev&theme=github-dark&hide_border=true"/>
 
-#### 04 - Java Multithreading
+</p>
 
-Structured Java Multithreading repository covering threads, thread creation, thread lifecycle, thread methods, synchronization, daemon threads, thread priorities, and concurrent execution concepts.
+---
 
-**Repository:** [04-Java-Multithreading](https://github.com/shaikbasha-dev/04-Java-Multithreading)
+## Development Philosophy
 
-#### 12 - Java Collections Framework
+I believe that software development is a continuous journey of learning, building, and improving. My approach focuses on writing clean, maintainable, and scalable code while strengthening technical fundamentals through practical implementation.
 
-Comprehensive Java Collections Framework repository covering Collection fundamentals, ArrayList, LinkedList, ArrayDeque, PriorityQueue, HashSet, LinkedHashSet, TreeSet, hashing, HashMap, LinkedHashMap, TreeMap, Map views, wrapper classes, autoboxing, unboxing, legacy classes, Collections algorithms, and framework hierarchy.
+Every project in this portfolio is developed with an emphasis on structured architecture, readability, problem-solving, and professional documentation. I strive to transform theoretical knowledge into practical applications that reflect industry standards and modern software engineering practices.
 
-The repository also contains dedicated Java Collections Framework interview preparation content.
+---
 
-**Repository:** [12-Java-Collections-Framework](https://github.com/shaikbasha-dev/12-Java-Collections-Framework)
+## Technical Portfolio
+
+This portfolio represents my continuous learning journey in Java Full Stack Development through structured repositories, practical implementations, technical documentation, and real-world programming exercises.
+
+Each repository is organized to provide clear explanations, hands-on examples, interview-oriented concepts, and production-quality documentation.
+
+### Java Development
+
+The Java repositories build a strong foundation in object-oriented programming and enterprise application development.
+
+| Repository | Description |
+|------------|-------------|
+| [01-Core-Java](https://github.com/shaikbasha-dev/01-Core-Java) | Comprehensive Core Java repository covering fundamentals, operators, arrays, strings, methods, constructors, object-oriented programming, and practical coding exercises. |
+| [02-Java-OOP-Concepts](https://github.com/shaikbasha-dev/02-Java-OOP-Concepts) | Complete guide to Object-Oriented Programming with theory, real-world examples, interview questions, and implementation-based learning. |
+| [03-Java-Exception-Handling](https://github.com/shaikbasha-dev/03-Java-Exception-Handling) | Covers Java exception hierarchy, checked and unchecked exceptions, custom exceptions, exception handling best practices, and practical examples. |
+| [04-Java-Multithreading](https://github.com/shaikbasha-dev/04-Java-Multithreading) | Complete multithreading concepts including thread lifecycle, synchronization, daemon threads, Runnable interface, concurrency fundamentals, and interview preparation. |
+| [12-Java-Collections-Framework](https://github.com/shaikbasha-dev/12-Java-Collections-Framework) | Detailed Java Collections Framework repository covering List, Set, Queue, Map, Generics, Iterators, Comparable, Comparator, Streams, and collection internals. |
+
+---
+
+### Database Development
+
+Practical database programming using Oracle SQL and JDBC with MySQL.
+
+| Repository | Description |
+|------------|-------------|
+| [08-Oracle-SQL](https://github.com/shaikbasha-dev/08-Oracle-SQL) | Comprehensive Oracle SQL repository covering SQL fundamentals, joins, constraints, functions, normalization, ER diagrams, subqueries, and assignment queries. |
+| [09-JDBC-with-MySQL](https://github.com/shaikbasha-dev/09-JDBC-with-MySQL) | Covers JDBC architecture, database connectivity, PreparedStatement, batch processing, transactions, and advanced Java-MySQL integration. |
+| [10-Java-JDBC-MySQL-Demo](https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo) | Demonstrates professional JDBC implementation with automated database creation, schema management, DDL, DML, and transaction handling. |
+| [11-Java-JDBC-Student-App](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App) | Object-oriented Student Management application using JDBC, PreparedStatement, and MySQL for secure database interaction. |
 
 ---
 
 ### Frontend Development
 
-#### 05 - HTML5
+Modern web development using HTML5, CSS3, and JavaScript.
 
-Structured HTML5 repository covering HTML fundamentals, document structure, headings, text formatting, hyperlinks, lists, tables, forms, input elements, validation, semantic elements, navigation, multimedia, audio, video, images, iframes, accessibility, web security fundamentals, and interview preparation.
-
-**Repository:** [05-HTML5](https://github.com/shaikbasha-dev/05-HTML5)
-
-#### 06 - CSS3
-
-CSS3 repository covering CSS fundamentals, selectors, `div`, `span`, borders, margins, padding, semantic elements, navigation bars, animations, transforms, block-level elements, and inline-level elements.
-
-**Repository:** [06-CSS3](https://github.com/shaikbasha-dev/06-CSS3)
-
-#### 07 - JavaScript
-
-Comprehensive JavaScript repository covering variables, data types, type casting, arrays, objects, operators, control statements, functions, events, regular expressions, form validation, DOM, BOM, OOP concepts, cookies, and interview preparation.
-
-**Repository:** [07-JavaScript](https://github.com/shaikbasha-dev/07-JavaScript)
+| Repository | Description |
+|------------|-------------|
+| [05-HTML5](https://github.com/shaikbasha-dev/05-HTML5) | Complete HTML5 repository including semantic elements, forms, multimedia, validation, accessibility, projects, and interview concepts. |
+| [06-CSS3](https://github.com/shaikbasha-dev/06-CSS3) | Comprehensive CSS3 repository covering selectors, layouts, Flexbox, Grid, animations, transitions, responsive design, and modern styling techniques. |
+| [07-JavaScript](https://github.com/shaikbasha-dev/07-JavaScript) | JavaScript fundamentals, DOM manipulation, ES6 features, objects, arrays, functions, events, and practical programming exercises. |
 
 ---
 
-### Database and JDBC Development
+### Software Testing & Programming
 
-#### 08 - Oracle SQL
-
-Comprehensive Oracle SQL repository covering SQL fundamentals, data types, SELECT statements, constraints, operators, functions, `GROUP BY`, `HAVING`, subqueries, joins, SQL commands, database objects, ER diagrams, normalization, and relational database concepts.
-
-**Repository:** [08-Oracle-SQL](https://github.com/shaikbasha-dev/08-Oracle-SQL)
-
-#### 09 - JDBC with MySQL
-
-Structured JDBC and MySQL repository covering JDBC architecture, JDBC drivers, Java and MySQL connectivity, Statement, PreparedStatement, CallableStatement concepts, ResultSet, record insertion, data retrieval, batch processing, and database integration concepts.
-
-The repository also contains **90 JDBC and MySQL interview questions with detailed answers**.
-
-**Repository:** [09-JDBC-with-MySQL](https://github.com/shaikbasha-dev/09-JDBC-with-MySQL)
-
-#### 10 - Java JDBC MySQL Demo
-
-Hands-on Java JDBC demonstration project covering Java and MySQL database connectivity, JDBC API usage, SQL execution, table creation, record insertion, Statement, `executeUpdate()`, try-with-resources, automatic resource management, and JDBC exception scenarios.
-
-**Repository:** [10-Java-JDBC-MySQL-Demo](https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo)
-
-#### 11 - Java JDBC Student App
-
-Java JDBC student data persistence project demonstrating Java object creation, object-to-relational data mapping concepts, MySQL connectivity, PreparedStatement, parameterized SQL queries, positional placeholder binding, object field mapping, record insertion, and SQL injection prevention concepts.
-
-**Repository:** [11-Java-JDBC-Student-App](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App)
+| Repository | Description |
+|------------|-------------|
+| [13-Python](https://github.com/shaikbasha-dev/13-Python) | Structured Python repository covering fundamentals, advanced programming concepts, practical exercises, interview questions, and real-world examples. |
+| [14-Manual-Testing](https://github.com/shaikbasha-dev/14-Manual-Testing) | Complete Manual Testing repository covering SDLC, STLC, Agile, Scrum, testing methodologies, bug life cycle, and test case design. |
 
 ---
 
-### Python Programming
+### Professional Portfolio
 
-#### 13 - Python
+In addition to technical repositories, this profile includes professional achievements and career documentation.
 
-Structured Python programming repository containing **28 essential learning topics**.
-
-The repository covers Python fundamentals, execution flow, data types, type casting, control constructs, strings, `split()`, operators, indexing, slicing, Object-Oriented Programming, static variables, constructor concepts, method concepts, exception handling, multithreading, modules, aliasing, lambda, `map()`, decorators, list comprehension, and file handling.
-
-**Repository:** [13-Python](https://github.com/shaikbasha-dev/13-Python)
-
----
-
-### Software Testing
-
-#### 14 - Manual Testing
-
-Comprehensive Manual Testing repository covering Software Testing fundamentals, SDLC, Agile and Scrum, testing types, STLC, test planning, test cases, test design techniques, test execution, defect management, Bug Life Cycle, and advanced testing concepts.
-
-The repository also contains **100 Manual Testing Interview Questions and Answers** for QA and technical interview preparation.
-
-**Repository:** [14-Manual-Testing](https://github.com/shaikbasha-dev/14-Manual-Testing)
+| Repository | Description |
+|------------|-------------|
+| [Professional-Certifications](https://github.com/shaikbasha-dev/Professional-Certifications) | Professional certifications, digital badges, and continuous learning achievements across multiple technologies. |
+| [KodNest-Full-Stack-and-Manual-Testing-Internship](https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship) | Java Full Stack Development and Manual Testing internship showcasing technologies learned, practical exposure, and professional training. |
+| [Research-Publications](https://github.com/shaikbasha-dev/Research-Publications) | Academic research publications, journal papers, and technical documentation in IoT and Embedded Systems. |
+| [Resume-Portfolio](https://github.com/shaikbasha-dev/Resume-Portfolio) | Personal resume and professional portfolio highlighting technical skills, projects, certifications, and career journey. |
 
 ---
 
-## Practical Java JDBC Projects
+## Portfolio Highlights
 
-### Java JDBC MySQL Demo
+Across these repositories, you will find:
 
-**Technologies:** Java, JDBC, MySQL, SQL
+- Well-structured project organization
+- Professional README documentation
+- Practical coding exercises
+- Beginner-to-advanced learning resources
+- Interview-oriented examples
+- Real-world programming concepts
+- Consistent repository structure
+- Continuous updates and improvements
 
-This hands-on JDBC project demonstrates:
+Every repository reflects my commitment to continuous learning, clean software development practices, and building a strong technical foundation for enterprise application development.
 
-* Java and MySQL database connectivity
-* JDBC API implementation
-* Database connection management
-* SQL statement execution
-* Dynamic table creation
-* Record insertion
-* `Statement` interface
-* `executeUpdate()`
-* Try-with-resources
-* Automatic JDBC resource management
-* JDBC exception scenarios
+---
 
-**Project Repository:** [10-Java-JDBC-MySQL-Demo](https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo)
+## Featured Projects
 
-### Java JDBC Student App
+The following projects demonstrate the practical application of Java, JDBC, SQL, and modern software development concepts. They reflect my approach to writing clean, maintainable, and well-structured code while continuously improving through hands-on implementation.
 
-**Technologies:** Java, JDBC, MySQL, SQL, PreparedStatement
+### Student Management System
 
-A Java database persistence project demonstrating:
+**Technology Stack**
 
-* Java object-based student data representation
-* Object-to-relational data mapping concepts
-* Java and MySQL database connectivity
-* PreparedStatement implementation
-* Parameterized SQL queries
-* Positional placeholder binding
-* Object field to database column mapping
-* Multiple object record insertion
-* SQL injection prevention concepts
-* JDBC exception handling
+`Java` • `JDBC` • `MySQL`
 
-**Project Repository:** [11-Java-JDBC-Student-App](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App)
+A console-based CRUD application developed using Java and JDBC that demonstrates object-oriented programming principles and relational database integration.
+
+**Key Features**
+
+- Create, update, search, and delete student records
+- Secure database operations using `PreparedStatement`
+- Modular object-oriented architecture
+- Exception handling and input validation
+- Efficient database connectivity using JDBC
+- Clean and maintainable code structure
+
+**Repository**
+
+🔗 https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App
+
+---
+
+### JDBC Database Operations
+
+**Technology Stack**
+
+`Java` • `JDBC` • `MySQL`
+
+A professional implementation of Java Database Connectivity covering database interaction, transaction management, and enterprise database programming concepts.
+
+**Key Features**
+
+- Database connection management
+- DDL and DML operations
+- PreparedStatement implementation
+- Batch processing
+- Transaction handling
+- ResultSet processing
+- Database best practices
+
+**Repositories**
+
+🔗 https://github.com/shaikbasha-dev/09-JDBC-with-MySQL
+
+🔗 https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo
+
+---
+
+### Java Learning Portfolio
+
+A structured collection of Java repositories covering everything from programming fundamentals to advanced language concepts.
+
+**Topics Covered**
+
+- Core Java
+- Object-Oriented Programming
+- Exception Handling
+- Multithreading
+- Collections Framework
+
+These repositories contain practical programs, theory, interview questions, real-world examples, and implementation-focused learning resources.
+
+---
+
+### Frontend Development Portfolio
+
+A structured frontend learning portfolio built around modern web development technologies.
+
+**Technologies**
+
+- HTML5
+- CSS3
+- JavaScript
+
+**Highlights**
+
+- Semantic HTML
+- Responsive Layouts
+- CSS Flexbox & Grid
+- CSS Animations
+- DOM Manipulation
+- Modern JavaScript (ES6)
+- Interactive Web Components
+
+---
+
+### Database Development Portfolio
+
+Comprehensive SQL and database programming repositories focusing on relational database concepts and Java integration.
+
+**Technologies**
+
+- Oracle SQL
+- MySQL
+- JDBC
+
+**Coverage**
+
+- SQL Fundamentals
+- Joins
+- Subqueries
+- Constraints
+- Functions
+- Normalization
+- Database Connectivity
+- CRUD Operations
+- Transaction Management
+
+---
+
+## Development Approach
+
+Every project and repository in this portfolio follows a structured development process focused on software engineering best practices.
+
+### Development Principles
+
+- Clean and readable code
+- Object-Oriented Design
+- Reusable components
+- Consistent project organization
+- Professional documentation
+- Practical implementation
+- Continuous improvement
+- Version control using Git and GitHub
+
+---
+
+## Current Project Roadmap
+
+I continue expanding this portfolio with projects that strengthen my expertise in enterprise Java development.
+
+Current focus areas include:
+
+- Spring Boot REST APIs
+- Hibernate & JPA
+- Authentication & Authorization
+- Full Stack Java Applications
+- Design Patterns
+- Microservices Fundamentals
+- RESTful Web Services
+- Cloud & DevOps Fundamentals
+
+The objective is to build production-ready applications that demonstrate practical software engineering skills and real-world problem-solving capabilities.
+
+---
+
+## Professional Learning
+
+Continuous learning has been an essential part of my journey as a software developer. Alongside practical software development and project implementation, I actively pursue professional learning opportunities to strengthen my technical foundation and stay current with modern technologies.
+
+The knowledge gained through these learning experiences is consistently applied across the repositories, projects, and technical documentation available throughout this GitHub portfolio.
+
+---
+
+## Areas of Expertise Developed
+
+Throughout my learning journey, I have strengthened practical knowledge across multiple technology domains.
+
+### Java Development
+
+- Core Java
+- Object-Oriented Programming
+- Exception Handling
+- Multithreading
+- Collections Framework
+- JDBC
+- Java Best Practices
+
+### Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Web Standards
+
+### Database Technologies
+
+- Oracle SQL
+- MySQL
+- Database Design
+- Relational Database Concepts
+- SQL Query Development
+
+### Software Engineering
+
+- Manual Testing
+- SDLC
+- STLC
+- Agile Methodology
+- Git & GitHub
+
+### Additional Skills
+
+- Python Programming
+- Technical Documentation
+- Problem Solving
+- Software Development Best Practices
 
 ---
 
 ## Professional Certifications
 
-I maintain a dedicated GitHub repository to document my professional certifications, digital achievement badges, and continuous technical learning achievements across Java, Python, JavaScript, SQL, HTML5, CSS3, and frontend development.
+Professional certifications completed across Java, Web Development, SQL, Python, Software Engineering, and related technologies are maintained in a dedicated repository.
 
-### Programming using Java - Special Batches
+**Repository**
 
-**Platform:** Infosys Springboard  
-**Course Provider:** Skillsoft  
-**Year:** 2026  
-**Focus Area:** Java Programming and Software Development Fundamentals
+🔗 https://github.com/shaikbasha-dev/Professional-Certifications
 
-Completed structured Java programming learning covering Java fundamentals, variables, data types, operators, control structures, Object-Oriented Programming, methods, constructors, encapsulation, abstraction, inheritance, polymorphism, exception handling, unit testing, regular expressions, generics, and the Java Collections Framework.
+The repository includes:
 
-### Getting Started with Java: The Fundamentals of Java Programming
-
-**Platform:** Infosys Springboard  
-**Year:** 2026  
-**Completed:** July 11, 2026  
-**Certificate Issued:** July 12, 2026  
-**Focus Area:** Java Programming Fundamentals
-
-Successfully completed the Getting Started with Java: The Fundamentals of Java Programming course through Infosys Springboard. This course completion reflects continued development of Java programming fundamentals and structured technical learning.
-
-### HTML5 - The Language
-
-**Platform:** Infosys Springboard  
-**Year:** 2026  
-**Completed:** July 14, 2026  
-**Focus Area:** HTML5 and Web Development Fundamentals
-
-Successfully completed the HTML5 - The Language course through Infosys Springboard. The course strengthened my understanding of HTML document structure, elements and attributes, lists, tables, forms, form validation, semantic HTML, navigation, multimedia elements, iframes, accessibility, HTML coding practices, and web security fundamentals.
-
-### CSS3
-
-**Platform:** Infosys Springboard  
-**Year:** 2026  
-**Completed:** July 14, 2026  
-**Certificate Issued:** July 15, 2026  
-**Focus Area:** CSS3 and Frontend Web Styling
-
-Successfully completed the CSS3 course through Infosys Springboard. The course strengthened my understanding of CSS fundamentals, styling rules, selectors, colors, backgrounds, text and font styling, the CSS box model, margins, borders, padding, display properties, positioning, layout techniques, responsive web design, media queries, pseudo-classes, pseudo-elements, transitions, transformations, animations, and modern web styling practices.
-
-### Programming for Everybody (Getting Started with Python)
-
-**Platform:** Coursera  
-**Organization:** University of Michigan  
-**Year:** 2023  
-**Focus Area:** Python Programming Fundamentals
-
-Completed foundational Python programming learning covering Python basics, variables, data types, conditional statements, loops, and functions.
-
-### Introduction to Java
-
-**Platform:** Coursera  
-**Organization:** LearnQuest  
-**Year:** 2023  
-**Focus Area:** Java Programming Fundamentals
-
-Completed introductory Java learning covering Java fundamentals, Object-Oriented Programming, methods, classes, and exception handling basics.
-
-### JavaScript Basics
-
-**Platform:** Coursera  
-**Organization:** University of California, Davis  
-**Year:** 2022  
-**Focus Area:** JavaScript and Web Development Fundamentals
-
-Completed foundational JavaScript learning covering JavaScript fundamentals, variables, functions, and Document Object Model concepts.
-
-### SQL and Relational Databases 101
-
-**Platform:** IBM Cognitive Class  
-**Year:** 2023  
-**Focus Area:** SQL and Relational Database Fundamentals
-
-Completed structured database learning covering SQL queries, database design, relational database concepts, and data manipulation.
-
-### Front End Development - HTML
-
-**Platform:** Great Learning  
-**Year:** 2024  
-**Focus Area:** HTML5 and Frontend Development
-
-Completed frontend development learning covering HTML5, forms, tables, and semantic HTML elements.
-
-### Front End Development - CSS
-
-**Platform:** Great Learning  
-**Year:** 2024  
-**Focus Area:** CSS3 and Frontend Styling
-
-Completed frontend styling learning covering CSS styling, Flexbox, responsive design, and layout techniques.
-
-My Professional Certifications repository serves as a centralized record of completed technical courses, certificates, digital achievement badges, and continuous professional learning achievements.
-
-**View Professional Certifications:** [Professional-Certifications](https://github.com/shaikbasha-dev/Professional-Certifications)
+- Professional Certificates
+- Technical Course Completions
+- Digital Achievement Badges
+- Learning Milestones
+- Certification Documentation
 
 ---
 
-## Infosys Springboard Digital Achievement Badges
+## Learning Methodology
 
-Along with professional certifications, I have earned **7 documented digital badges** through structured learning and achievement activities on Infosys Springboard.
+I believe that completing a course is only the beginning of the learning process.
 
-These badges represent Java course completion, platform participation, course completion milestones, quiz resource completion, and progressive continuous learning achievements.
+My approach follows a structured cycle:
 
-### Getting Started with Java: The Fundamentals of Java Programming
+**Learn → Practice → Build → Document → Review → Improve**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Getting_Started_with_Java_Skillsoft_Badge.png" alt="Getting Started with Java: The Fundamentals of Java Programming Skillsoft Badge" width="200">
-</p>
+Every concept is reinforced through:
 
-**Learning Platform:** Infosys Springboard  
-**Badge Provider:** Skillsoft  
-**Year:** 2026  
-**Achievement:** Java Fundamentals Course Completion  
-**Focus Area:** Java Programming Fundamentals
+- Hands-on coding
+- Practical implementation
+- Technical documentation
+- Repository organization
+- Regular revision
+- Continuous improvement
 
-This course completion badge represents the successful completion of structured Java programming fundamentals learning.
-
----
-
-### The Fledgling
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/The_Fledgling_Infosys_Springboard_Badge.png" alt="The Fledgling Infosys Springboard Achievement Badge" width="200">
-</p>
-
-**Learning Platform:** Infosys Springboard  
-**Awarded:** July 10, 2026  
-**Achievement:** Registered on the Wingspan learning platform
-
-The Fledgling badge represents the initial learning milestone associated with registration on the Wingspan learning platform.
+This methodology helps transform theoretical knowledge into practical software development skills.
 
 ---
 
-### Duelist
+## Continuous Professional Development
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Duelist_First_Quiz_Resource_Infosys_Springboard_Badge.png" alt="Duelist Infosys Springboard Achievement Badge" width="200">
-</p>
+Technology evolves continuously, and I believe software engineers should evolve with it.
 
-**Learning Platform:** Infosys Springboard  
-**Awarded:** July 10, 2026  
-**Achievement:** Completed the first quiz resource
+I regularly dedicate time to:
 
-The Duelist badge represents the beginning of structured quiz-based learning and assessment activities.
+- Building practical applications
+- Strengthening Java Full Stack Development skills
+- Improving existing repositories
+- Learning modern development practices
+- Solving programming challenges
+- Expanding software engineering knowledge
+- Preparing for technical interviews
 
----
-
-### Warrior
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Warrior_First_Course_Infosys_Springboard_Badge.png" alt="Warrior Infosys Springboard Achievement Badge" width="200">
-</p>
-
-**Learning Platform:** Infosys Springboard  
-**Awarded:** July 10, 2026  
-**Achievement:** Completed the first course
-
-The Warrior badge represents the first documented course completion milestone through the learning platform.
+Continuous improvement remains one of the core principles guiding my professional growth as a developer.
 
 ---
 
-### Ace
+## Professional Experience
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Ace_25_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Ace Infosys Springboard Achievement Badge" width="200">
-</p>
+### Java Full Stack Development & Manual Testing Internship
 
-**Learning Platform:** Infosys Springboard  
-**Awarded:** July 10, 2026  
-**Achievement:** Completed 25 quiz resources
+Completed a professional internship focused on Java Full Stack Development and Manual Testing, gaining practical exposure to software development, database programming, frontend technologies, and software testing practices.
 
-The Ace badge represents the successful completion of 25 quiz resources through structured learning and assessment activities.
+**Key Learning Areas**
 
----
+- Core Java Programming
+- Object-Oriented Programming
+- JDBC
+- Oracle SQL & MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Manual Testing
+- SDLC & STLC
+- Git & GitHub
 
-### Genie
+**Repository**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Genie_100_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Genie Infosys Springboard Achievement Badge" width="200">
-</p>
-
-**Learning Platform:** Infosys Springboard  
-**Awarded:** July 10, 2026  
-**Achievement:** Completed 100 quiz resources
-
-The Genie badge represents continued participation in structured quiz-based learning and the completion of 100 quiz resources.
-
----
-
-### Wizard
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/shaikbasha-dev/Professional-Certifications/main/Badges/Wizard_250_Quiz_Resources_Infosys_Springboard_Badge.png" alt="Wizard Infosys Springboard Achievement Badge" width="200">
-</p>
-
-**Learning Platform:** Infosys Springboard  
-**Awarded:** July 14, 2026  
-**Achievement:** Completed 250 quiz resources
-
-The Wizard badge represents the successful completion of 250 quiz resources and documents a significant continuous learning and assessment milestone.
-
-### Achievement Progression
-
-My documented Infosys Springboard achievement progression includes:
-
-* The Fledgling - Registered on the Wingspan learning platform
-* Duelist - Completed the first quiz resource
-* Warrior - Completed the first course
-* Ace - Completed 25 quiz resources
-* Genie - Completed 100 quiz resources
-* Wizard - Completed 250 quiz resources
-
-These digital achievements reflect continued participation in structured learning, course completion, quiz-based assessments, and continuous professional skill development.
-
-The complete badge collection, badge images, and detailed achievement documentation are maintained in my **Professional Certifications** repository.
-
-**View Certifications and Digital Achievement Badges:** [Professional-Certifications](https://github.com/shaikbasha-dev/Professional-Certifications)
-
----
-
-## Internship and Technical Training
-
-I completed structured technical training in **Java and Python Full Stack Development** and **Manual Testing**.
-
-### Java and Python Full Stack Development
-
-Completed structured technical training covering programming, frontend development, database technologies, and Java database connectivity.
-
-**Technologies and Concepts Covered:**
-
-* Java
-* Python
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* Angular
-* JDBC
-* Oracle SQL
-
-The training provided hands-on exposure to Full Stack Development fundamentals and software development technologies.
-
-### Manual Testing
-
-Completed structured Manual Testing training covering software quality and testing fundamentals.
-
-**Concepts Covered:**
-
-* Manual Testing
-* Software Testing Fundamentals
-* SDLC
-* STLC
-* Testing Types
-* Test Case Concepts
-* Defect Management
-* Software Testing Methodologies
-
-**Internship and Training Repository:** [Java-Full-Stack-Internship-KodNest](https://github.com/shaikbasha-dev/Java-Full-Stack-Internship-KodNest)
-
----
-
-## Education
-
-### Bachelor of Technology (B.Tech) - Electronics and Communication Engineering
-
-**College:** Gates Institute of Technology (Autonomous)  
-**University:** Jawaharlal Nehru Technological University, Anantapur (JNTUA)  
-**Graduated:** 2022
-
-Completed a Bachelor of Technology in Electronics and Communication Engineering, developing a strong foundation in analytical thinking, problem-solving, and technical concepts.
-
-During my academic journey and after completing my graduation, I developed a strong interest in software development and expanded my technical knowledge through Java and Python Full Stack Development training, Manual Testing training, structured technical learning, practical programming, professional certification courses, and software development projects.
+🔗 https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship
 
 ---
 
 ## Research Publication
 
-### Home Automation and Vehicle Speed Detection using Internet of Things (IoT) with Google Assistant
+Published academic research demonstrating an interest in innovation, problem-solving, and emerging technologies.
 
-Published in **Gradiva Review Journal**
+**Repository**
 
-**ISSN:** 0363-8057
+🔗 https://github.com/shaikbasha-dev/Research-Publications
 
-**DOI:** `10.37897/GRJ.2021.V7I11.21.49876`
-
-The project focuses on IoT-based home automation and vehicle speed detection with Google Assistant integration.
-
-My research publication details are maintained in a dedicated GitHub repository.
-
-**Publication Repository:** [Research-Publications](https://github.com/shaikbasha-dev/Research-Publications)
+The repository contains research work, publication details, and supporting documentation completed during the academic journey.
 
 ---
 
 ## Professional Highlights
 
-* Built and maintained 14 structured technical learning and practical implementation repositories
-* Documented Core Java fundamentals and programming concepts
-* Created dedicated repositories for Java OOP, Exception Handling, and Multithreading
-* Built a comprehensive Java Collections Framework learning repository
-* Created structured HTML5, CSS3, and JavaScript repositories
-* Documented Oracle SQL and relational database concepts
-* Created comprehensive JDBC and MySQL technical learning materials
-* Documented 90 JDBC and MySQL interview questions and answers
-* Developed hands-on Java JDBC database connectivity projects
-* Built a structured Python repository covering 28 essential programming topics
-* Created a comprehensive Manual Testing knowledge repository
-* Documented 100 Manual Testing interview questions and answers
-* Added professional repository overview infographics across technical repositories
-* Maintained structured professional certification and digital achievement badge documentation
-* Documented 7 digital learning and achievement badges associated with Infosys Springboard learning activities
-* Earned The Fledgling badge for registering on the Wingspan learning platform
-* Earned the Duelist badge for completing the first quiz resource
-* Earned the Warrior badge for completing the first course
-* Earned the Ace badge for completing 25 quiz resources
-* Earned the Genie badge for completing 100 quiz resources
-* Earned the Wizard badge for completing 250 quiz resources
-* Completed the Getting Started with Java: The Fundamentals of Java Programming course through Infosys Springboard
-* Completed the HTML5 - The Language course through Infosys Springboard
-* Strengthened HTML5 knowledge through structured learning and assessment
-* Completed the CSS3 course through Infosys Springboard
-* Strengthened CSS3 and frontend web styling knowledge through structured learning and assessment
-* Completed Java and Python Full Stack Development technical training
-* Completed Manual Testing technical training
-* Published an IoT-based research paper in an international journal
-* Continuously strengthening technical knowledge through structured learning, professional certifications, quiz-based assessments, technical revision, and practical implementation
+- Structured GitHub portfolio with technology-focused repositories
+- Practical Java Full Stack Development experience
+- Strong foundation in Object-Oriented Programming
+- Hands-on database programming using JDBC and SQL
+- Experience developing frontend applications with HTML5, CSS3, and JavaScript
+- Knowledge of Manual Testing methodologies and software development life cycles
+- Active commitment to continuous technical learning and skill development
+- Consistent focus on clean code, organized documentation, and maintainable solutions
+
+---
+
+## Core Strengths
+
+- Analytical Thinking
+- Problem Solving
+- Logical Reasoning
+- Clean Code Practices
+- Continuous Learning
+- Technical Documentation
+- Attention to Detail
+- Team Collaboration
+- Adaptability
+- Time Management
+
+---
+
+## Technical Values
+
+My goal is not only to learn new technologies but also to understand the principles behind them and apply them effectively in practical software development.
+
+I believe in:
+
+- Writing clean and maintainable code
+- Building solutions with scalability in mind
+- Following software engineering best practices
+- Continuously improving through practical implementation
+- Maintaining well-documented and organized projects
+- Learning through consistent practice and real-world application
+
+These principles guide every repository, project, and technical resource published in this GitHub portfolio.
+
+---
+
+## Education
+
+**Bachelor of Technology (B.Tech)**
+
+Completed undergraduate studies with a strong interest in software development, programming, and modern web technologies. Throughout the academic journey, practical learning, project development, and continuous skill enhancement have remained the primary focus.
 
 ---
 
 ## Current Development Focus
 
-I am currently focused on:
+I am continuously expanding my expertise in Java Full Stack Development by building practical applications and strengthening both backend and frontend development skills.
 
-* Revising Java programming and Object-Oriented Programming concepts
-* Strengthening Java Collections Framework knowledge
-* Improving JDBC and database connectivity knowledge
-* Strengthening SQL and relational database concepts
-* Strengthening frontend development fundamentals through structured revision and certification learning
-* Reinforcing completed HTML5 and CSS3 revision through practical application
-* Revising JavaScript, TypeScript, and Angular concepts
-* Revising Python programming concepts
-* Strengthening Manual Testing, SDLC, and STLC knowledge
-* Preparing for Java Full Stack Developer technical interviews
-* Improving practical software development and problem-solving skills
-* Continuing structured technical learning and professional skill development
+### Currently Focusing On
 
-My future learning roadmap includes expanding my Java backend development knowledge and building additional real-world software projects.
+- Spring Boot
+- Hibernate & JPA
+- RESTful Web Services
+- Enterprise Java Development
+- Angular
+- System Design Fundamentals
+- Design Patterns
+- Microservices Fundamentals
+- Cloud Fundamentals
+- DevOps Fundamentals
 
 ---
 
-## Career Objective
+## Career Goal
 
-Seeking an **entry-level Software Engineer or Java Full Stack Developer opportunity** where I can apply my Java programming, Object-Oriented Programming, JDBC, SQL, database, frontend, Python, and software testing knowledge to contribute to real-world software development projects.
-
-I am committed to continuous learning, improving my technical capabilities, and growing as a professional software developer in a collaborative development environment.
+Seeking an opportunity as a **Java Full Stack Developer** where I can contribute to building reliable, scalable, and high-quality software solutions while continuously learning, collaborating with experienced engineering teams, and growing as a software professional.
 
 ---
 
-## Connect With Me
+## GitHub Goals
 
-### Email
+This GitHub profile is continuously maintained to reflect my technical growth and practical experience.
 
-[Email Me](mailto:smbashadev@gmail.com)
+Current objectives include:
 
-### LinkedIn
+- Expanding Java Full Stack projects
+- Developing production-ready applications
+- Strengthening backend development expertise
+- Improving frontend application development
+- Enhancing database design and optimization skills
+- Publishing well-documented technical repositories
+- Sharing knowledge through structured learning resources
+- Continuously improving software engineering practices
 
-[LinkedIn Profile](https://www.linkedin.com/in/shaik-mahaboob-basha-java)
+---
 
-### GitHub
+## Let's Connect
 
-[GitHub Profile](https://github.com/shaikbasha-dev)
+I’m always open to connecting with fellow developers, recruiters, hiring managers, and technology enthusiasts.
+
+<p align="left">
+<a href="https://github.com/shaikbasha-dev" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shaik-mahaboob-basha" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:smbashadev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+If you'd like to discuss software development, Java Full Stack technologies, collaborate on projects, or explore professional opportunities, feel free to connect. I'm always happy to engage in meaningful technical conversations and continue learning from the developer community.
