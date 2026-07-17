@@ -23,7 +23,7 @@ Passionate about building scalable Java applications, modern web solutions, and 
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Core+Java+%7C+JDBC+%7C+Oracle+SQL;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Angular;Python+%7C+Manual+Testing;Building+Clean+Code+and+Practical+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Java+%7C+JDBC+%7C+Oracle+SQL;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Angular;Python+%7C+Manual+Testing;Building+Clean+Code+and+Practical+Solutions" />
 </p>
 
 ## About Me
