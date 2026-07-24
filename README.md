@@ -17,8 +17,6 @@ Passionate about building scalable Java applications, modern web solutions, and 
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br>
-
 <a href="mailto:smbashadev@gmail.com"><strong>smbashadev@gmail.com</strong></a>
 &nbsp;
 <a href="https://github.com/shaikbasha-dev">
@@ -687,8 +685,6 @@ I’m always open to connecting with fellow developers, recruiters, hiring manag
 <a href="mailto:smbashadev@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<br>
 
 <a href="mailto:smbashadev@gmail.com"><strong>smbashadev@gmail.com</strong></a>
 
