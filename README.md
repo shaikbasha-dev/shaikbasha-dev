@@ -9,7 +9,7 @@ Passionate about building scalable Java applications, modern web solutions, and 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shaik-mahaboob-basha">
+<a href="[https://www.linkedin.com/in/shaik-mahaboob-basha](https://www.linkedin.com/in/shaikbasha-dev/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
