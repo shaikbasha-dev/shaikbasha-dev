@@ -10,19 +10,19 @@ Passionate about building scalable Java applications, modern web solutions, and 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaikbasha-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   &nbsp;
 
   <a href="mailto:smbashadev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-smbashadev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   &nbsp;
 
   <a href="https://github.com/shaikbasha-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -677,19 +677,19 @@ I’m always open to connecting with fellow developers, recruiters, hiring manag
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaikbasha-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   &nbsp;
 
   <a href="mailto:smbashadev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-smbashadev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   &nbsp;
 
   <a href="https://github.com/shaikbasha-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
