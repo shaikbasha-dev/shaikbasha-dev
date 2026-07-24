@@ -18,7 +18,7 @@ Passionate about building scalable Java applications, modern web solutions, and 
 </a>
 &nbsp;
 <a href="https://github.com/shaikbasha-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
@@ -672,8 +672,8 @@ Current objectives include:
 I’m always open to connecting with fellow developers, recruiters, hiring managers, and technology enthusiasts.
 
 <p align="left">
-<a href="https://github.com/shaikbasha-dev" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/shaikbasha-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shaikbasha-dev/">
