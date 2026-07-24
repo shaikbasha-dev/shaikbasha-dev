@@ -11,7 +11,7 @@ Passionate about building scalable Java applications, modern web solutions, and 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaikbasha-dev/">LinkedIn</a>
   &nbsp;|&nbsp;
-  <strong>Email:</strong> <a href="smbashadev@gmail.com"> smbashadev@gmail.com </a>
+  <strong>Email:</strong> smbashadev@gmail.com
   &nbsp;|&nbsp;
   <a href="https://github.com/shaikbasha-dev">GitHub</a>
 </p>
@@ -668,7 +668,7 @@ I’m always open to connecting with fellow developers, recruiters, hiring manag
 <p align="center">
   <a href="https://www.linkedin.com/in/shaikbasha-dev/">LinkedIn</a>
   &nbsp;|&nbsp;
-  <strong>Email:</strong> <a href="smbashadev@gmail.com"> smbashadev@gmail.com </a>
+  <strong>Email:</strong> smbashadev@gmail.com
   &nbsp;|&nbsp;
   <a href="https://github.com/shaikbasha-dev">GitHub</a>
 </p>
