@@ -9,8 +9,8 @@ Passionate about building scalable Java applications, modern web solutions, and 
 </p>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/shaik-mahaboob-basha](https://www.linkedin.com/in/shaikbasha-dev/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shaikbasha-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:smbashadev@gmail.com">
@@ -676,8 +676,8 @@ I’m always open to connecting with fellow developers, recruiters, hiring manag
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shaik-mahaboob-basha" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shaikbasha-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:smbashadev@gmail.com">
