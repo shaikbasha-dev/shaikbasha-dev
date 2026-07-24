@@ -141,16 +141,6 @@ Each repository is carefully organized with detailed explanations, practical exa
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaikbasha-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikbasha-dev&layout=compact&langs_count=10&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="98%" src="https://streak-stats.demolab.com?user=shaikbasha-dev&theme=github-dark&hide_border=true"/>
 
 </div>
