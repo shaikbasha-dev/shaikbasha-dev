@@ -9,19 +9,21 @@ Passionate about building scalable Java applications, modern web solutions, and 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shaikbasha-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:smbashadev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://www.linkedin.com/in/shaikbasha-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="mailto:smbashadev@gmail.com"><strong>smbashadev@gmail.com</strong></a>
-&nbsp;
-<a href="https://github.com/shaikbasha-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+  &nbsp;
+
+  <a href="mailto:smbashadev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-smbashadev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/shaikbasha-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
@@ -673,21 +675,22 @@ Current objectives include:
 
 I’m always open to connecting with fellow developers, recruiters, hiring managers, and technology enthusiasts.
 
-<p align="left">
-<a href="https://github.com/shaikbasha-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaikbasha-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="https://www.linkedin.com/in/shaikbasha-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  &nbsp;
 
-<a href="mailto:smbashadev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="mailto:smbashadev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-smbashadev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-<a href="mailto:smbashadev@gmail.com"><strong>smbashadev@gmail.com</strong></a>
+  &nbsp;
 
+  <a href="https://github.com/shaikbasha-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 If you'd like to discuss software development, Java Full Stack technologies, collaborate on projects, or explore professional opportunities, feel free to connect. I'm always happy to engage in meaningful technical conversations and continue learning from the developer community.
