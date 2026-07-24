@@ -9,8 +9,10 @@ Passionate about building scalable Java applications, modern web solutions, and 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaikbasha-dev/">LinkedIn</a> •
-  <a href="mailto:smbashadev@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/shaikbasha-dev/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <strong>Email:</strong> smbashadev@gmail.com
+  &nbsp;|&nbsp;
   <a href="https://github.com/shaikbasha-dev">GitHub</a>
 </p>
 
@@ -664,8 +666,10 @@ Current objectives include:
 I’m always open to connecting with fellow developers, recruiters, hiring managers, and technology enthusiasts.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaikbasha-dev/">LinkedIn</a> •
-  <a href="mailto:smbashadev@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/shaikbasha-dev/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <strong>Email:</strong> smbashadev@gmail.com
+  &nbsp;|&nbsp;
   <a href="https://github.com/shaikbasha-dev">GitHub</a>
 </p>
 
