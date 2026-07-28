@@ -59,6 +59,8 @@ Currently seeking opportunities as a **Java Full Stack Developer** or related so
 
 </div>
 
+---
+
 ## About Me
 
 I am a Java Full Stack Developer with hands-on training and internship experience in Java Full Stack Development and Manual Testing. I enjoy building practical applications, writing clean and maintainable code, and continuously improving my software development skills.
@@ -73,33 +75,33 @@ Currently, I am seeking an opportunity as a **Java Full Stack Developer** where 
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular"/>
+<img src="https://skillicons.dev/icons?i=angular" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse"/>
+<img src="https://skillicons.dev/icons?i=eclipse" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA"/>
+<img src="https://skillicons.dev/icons?i=idea" height="45"/>
 
 </p>
 
-**Programming Language:** Java, Python
+**Programming Languages:** Java, Python
 
 **Frontend Technologies:** HTML5, CSS3, JavaScript, Angular
 
@@ -117,52 +119,57 @@ Currently, I am seeking an opportunity as a **Java Full Stack Developer** where 
 
 ---
 
-## Professional Approach
+## GitHub Analytics
 
-My repositories are created with a focus on:
+My GitHub activity reflects continuous learning, practical development, and consistent contributions across Java Full Stack Development, Web Technologies, Databases, Software Testing, and Technical Documentation.
 
-- Structured learning from fundamentals to advanced concepts
-- Practical examples with clear explanations
-- Well-organized folder structures
-- Clean and readable source code
-- Interview-oriented content
-- Comprehensive documentation
-- Continuous improvement and regular updates
+<div align="center">
 
----
+<img width="98%" src="https://streak-stats.demolab.com?user=shaikbasha-dev&theme=github-dark&hide_border=true"/>
 
-## What You'll Find Here
+</div>
 
-This GitHub profile includes:
+<br>
 
-- Educational Java repositories
-- Frontend development resources
-- Database programming with JDBC and Oracle SQL
-- Python programming
-- Manual Testing documentation
-- Interview preparation resources
-- Professional certifications
-- Research publications
-- Personal portfolio projects
+<div align="center">
 
----
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaikbasha-dev&theme=github-dark&hide_border=true&area=true"/>
 
-## Career Highlights
+</div>
 
-| Category | Details |
-|-----------|---------|
-| Role | Java Full Stack Developer |
-| Education | B.Tech in Electronics & Communication Engineering |
-| Internship | Java Full Stack Development & Manual Testing (KodNest, Bangalore) |
-| Technical Portfolio | 21 Public GitHub Repositories covering Java, Full Stack Development, SQL, Python, Manual Testing, Certifications, and Research |
-| Professional Certifications | 11 Certifications from Infosys Springboard, Coursera, IBM, and Great Learning |
-| Digital Badges | 7 Infosys Springboard Achievement Badges |
-| Research Publication | Published Research Paper in *Gradiva Review Journal* (June 2022) |
-| Portfolio Website | Developer Portfolio |
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikbasha-dev&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaikbasha-dev&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaikbasha-dev&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaikbasha-dev&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaikbasha-dev&theme=github_dark&utcOffset=5.5"/>
+
+</div>
 
 ---
 
 ## Featured Repositories
+
+The following repositories demonstrate practical implementations, educational resources, interview preparation materials, and technical documentation across Java Full Stack Development, Web Technologies, Databases, Software Testing, and Software Engineering.
 
 | Repository | Technology | View | Category |
 |------------|------------|------|----------|
@@ -190,8 +197,10 @@ This GitHub profile includes:
 
 ## Professional Certifications
 
-| Certification Name | Technology | View | Company |
-|--------------------|------------|------|---------|
+The following certifications demonstrate continuous learning across Java, Web Development, Databases, and Programming through recognized learning platforms.
+
+| Certification Name | Technology | View | Organization |
+|--------------------|------------|------|--------------|
 | Programming using Java | Java | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Programming_using_Java_Infosys_Springboard.pdf) | Infosys Springboard |
 | Getting Started with Java: The Fundamentals of Java Programming | Java | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Getting-Started-with-Java-Fundamentals-of-Java-Programming-Infosys-Springboard-2026.pdf) | Infosys Springboard |
 | HTML5 – The Language | HTML5 | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/HTML5-The-Language-Infosys-Springboard-2026.pdf) | Infosys Springboard |
@@ -208,8 +217,10 @@ This GitHub profile includes:
 
 ## Digital Badges
 
-| Badge Name | View | Company |
-|------------|------|---------|
+The following achievement badges recognize continuous learning, active participation, and milestone accomplishments earned through Infosys Springboard.
+
+| Badge Name | View | Organization |
+|------------|------|--------------|
 | Getting Started with Java | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Getting_Started_with_Java_Skillsoft_Badge.png) | Infosys Springboard |
 | Warrior – First Course | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Warrior_First_Course_Infosys_Springboard_Badge.png) | Infosys Springboard |
 | Duelist – First Quiz Resource | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Duelist_First_Quiz_Resource_Infosys_Springboard_Badge.png) | Infosys Springboard |
@@ -222,7 +233,9 @@ This GitHub profile includes:
 
 ## Research Publication
 
-**Paper Title:** IoT-Based Smart Water Quality Monitoring System
+My undergraduate research work focused on applying Internet of Things (IoT) technologies to monitor and improve water quality. The paper was successfully published in an academic journal, reflecting practical research experience alongside software development.
+
+**Paper Title:** *IoT-Based Smart Water Quality Monitoring System*
 
 **Journal:** Gradiva Review Journal
 
@@ -230,8 +243,73 @@ This GitHub profile includes:
 
 **DOI:** 10.37897/GRJ
 
-**View Publication:** https://github.com/shaikbasha-dev/Research-Publications
+**Repository:** [Research Publications](https://github.com/shaikbasha-dev/Research-Publications)
 
 ---
 
+## Internship Experience
 
+Completed a hands-on internship focused on Java Full Stack Development and Manual Testing, gaining practical exposure to software development fundamentals, database programming, frontend technologies, testing methodologies, and version control.
+
+**Organization:** KodNest Technologies Pvt. Ltd.
+
+**Program:** Java Full Stack Development & Manual Testing Internship
+
+**Location:** Bengaluru, Karnataka, India
+
+**Duration:** December 2022 – May 2023
+
+### Key Learning Areas
+
+- Core Java
+- Advanced Java
+- JDBC
+- Oracle SQL
+- HTML5
+- CSS3
+- JavaScript
+- Manual Testing
+- SDLC & STLC
+- Git & GitHub
+
+**Repository:** [KodNest Full Stack & Manual Testing Internship](https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship)
+
+---
+
+## Connect with Me
+
+<div align="center">
+
+<a href="https://shaikbasha-dev.github.io/Developer-Portfolio-Project/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/shaikbasha-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:smbashadev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/shaikbasha-dev">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thank You for Visiting!
+
+Thank you for taking the time to explore my GitHub profile.
+
+This profile showcases my journey in Java Full Stack Development through practical projects, technical documentation, professional certifications, research work, and continuous learning.
+
+I'm always open to connecting with developers, recruiters, and technology professionals.
+
+**Let's connect and build great software together!**
+
+</div>
