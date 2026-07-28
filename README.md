@@ -161,8 +161,6 @@ My GitHub activity reflects continuous learning, practical development, and cons
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaikbasha-dev&theme=github_dark"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaikbasha-dev&theme=github_dark&utcOffset=5.5"/>
-
 </div>
 
 ---
