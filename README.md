@@ -184,6 +184,8 @@ The following repositories demonstrate practical implementations, educational re
 | 11-Java-JDBC-Student-App | Java, JDBC | [View Repository](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App) | Backend Development |
 | 12-Java-Collections-Framework | Java | [View Repository](https://github.com/shaikbasha-dev/12-Java-Collections-Framework) | Java Development |
 | Java-Visual-Handbook | Java | [View Repository](https://github.com/shaikbasha-dev/Java-Visual-Handbook) | Educational Resource |
+| HTML5-Visual-Handbook | HTML5 | [View Repository](https://github.com/shaikbasha-dev/HTML5-Visual-Handbook) | Educational Resource |
+| CSS3-Visual-Handbook | CSS3 | [View Repository](https://github.com/shaikbasha-dev/CSS3-Visual-Handbook) | Educational Resource |
 | 13-Python | Python | [View Repository](https://github.com/shaikbasha-dev/13-Python) | Programming |
 | 14-Manual-Testing | Manual Testing | [View Repository](https://github.com/shaikbasha-dev/14-Manual-Testing) | Software Testing |
 | JavaScript-Interview-Questions | JavaScript | [View Repository](https://github.com/shaikbasha-dev/JavaScript-Interview-Questions) | Interview Preparation |
