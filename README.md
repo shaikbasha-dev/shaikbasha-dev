@@ -183,6 +183,7 @@ The following repositories demonstrate practical implementations, educational re
 | 10-Java-JDBC-MySQL-Demo | Java, JDBC | [View Repository](https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo) | Backend Development |
 | 11-Java-JDBC-Student-App | Java, JDBC | [View Repository](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App) | Backend Development |
 | 12-Java-Collections-Framework | Java | [View Repository](https://github.com/shaikbasha-dev/12-Java-Collections-Framework) | Java Development |
+| Java-Visual-Handbook | Java | [View Repository](https://github.com/shaikbasha-dev/Java-Visual-Handbook) | Educational Resource |
 | 13-Python | Python | [View Repository](https://github.com/shaikbasha-dev/13-Python) | Programming |
 | 14-Manual-Testing | Manual Testing | [View Repository](https://github.com/shaikbasha-dev/14-Manual-Testing) | Software Testing |
 | JavaScript-Interview-Questions | JavaScript | [View Repository](https://github.com/shaikbasha-dev/JavaScript-Interview-Questions) | Interview Preparation |
