@@ -40,7 +40,8 @@ Currently seeking opportunities as a **Java Full Stack Developer** or related so
 
 | Profile | Details |
 |:--------|:--------|
-| Role | Java Full Stack Developer |
+| Seeking Opportunities As | Software Engineer |
+| Interested Roles | Software Engineer, Java Developer, Full Stack Developer |
 | Education | B.Tech – Electronics & Communication Engineering |
 | Internship | Java Full Stack Development & Manual Testing |
 | GitHub Repositories | 21 Public Repositories |
