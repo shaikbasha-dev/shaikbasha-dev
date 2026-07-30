@@ -168,7 +168,7 @@ My GitHub activity reflects continuous learning, practical development, and cons
 
 ## Featured Repositories
 
-The following repositories demonstrate practical implementations, educational resources, interview preparation materials, and technical documentation across Java Full Stack Development, Web Technologies, Databases, Software Testing, and Software Engineering.
+The following repositories demonstrate practical implementations, educational resources, interview preparation materials, and technical documentation across Java Full Stack Development, Web Technologies, Databases, Software Testing, Internet of Things (IoT), and Software Engineering.
 
 | Repository | Technology | View | Category |
 |------------|------------|------|----------|
@@ -184,16 +184,18 @@ The following repositories demonstrate practical implementations, educational re
 | 10-Java-JDBC-MySQL-Demo | Java, JDBC | [View Repository](https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo) | Backend Development |
 | 11-Java-JDBC-Student-App | Java, JDBC | [View Repository](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App) | Backend Development |
 | 12-Java-Collections-Framework | Java | [View Repository](https://github.com/shaikbasha-dev/12-Java-Collections-Framework) | Java Development |
+| 13-Python | Python | [View Repository](https://github.com/shaikbasha-dev/13-Python) | Programming |
+| 14-Manual-Testing | Manual Testing | [View Repository](https://github.com/shaikbasha-dev/14-Manual-Testing) | Software Testing |
 | Java-Visual-Handbook | Java | [View Repository](https://github.com/shaikbasha-dev/Java-Visual-Handbook) | Educational Resource |
 | HTML5-Visual-Handbook | HTML5 | [View Repository](https://github.com/shaikbasha-dev/HTML5-Visual-Handbook) | Educational Resource |
 | CSS3-Visual-Handbook | CSS3 | [View Repository](https://github.com/shaikbasha-dev/CSS3-Visual-Handbook) | Educational Resource |
-| 13-Python | Python | [View Repository](https://github.com/shaikbasha-dev/13-Python) | Programming |
-| 14-Manual-Testing | Manual Testing | [View Repository](https://github.com/shaikbasha-dev/14-Manual-Testing) | Software Testing |
 | JavaScript-Interview-Questions | JavaScript | [View Repository](https://github.com/shaikbasha-dev/JavaScript-Interview-Questions) | Interview Preparation |
 | Developer-Portfolio-Project | HTML, CSS, JavaScript | [View Repository](https://github.com/shaikbasha-dev/Developer-Portfolio-Project) | Portfolio |
+| Home-Automation-and-Vehicle-Speed-Detection-Using-IoT | IoT, ESP8266, NodeMCU | [View Repository](https://github.com/shaikbasha-dev/Home-Automation-and-Vehicle-Speed-Detection-Using-IoT) | Academic Project |
 | Professional-Certifications | Certifications | [View Repository](https://github.com/shaikbasha-dev/Professional-Certifications) | Career Portfolio |
 | Research-Publications | Research | [View Repository](https://github.com/shaikbasha-dev/Research-Publications) | Academic Portfolio |
 | KodNest-Full-Stack-and-Manual-Testing-Internship | Java Full Stack | [View Repository](https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship) | Internship |
+| shaikbasha-dev | GitHub Profile | [View Repository](https://github.com/shaikbasha-dev/shaikbasha-dev) | GitHub Profile |
 
 ---
 
