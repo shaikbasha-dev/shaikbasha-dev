@@ -44,7 +44,7 @@ Currently seeking opportunities as a **Java Full Stack Developer** or related so
 | Interested Roles | Software Engineer, Java Developer, Full Stack Developer |
 | Education | B.Tech – Electronics & Communication Engineering |
 | Internship | Java Full Stack Development & Manual Testing |
-| GitHub Repositories | 21 Public Repositories |
+| GitHub Repositories | 25 Public Repositories |
 | Professional Certifications | 11 |
 | Digital Badges | 7 |
 | Research Publication | 1 |
@@ -67,6 +67,8 @@ Currently seeking opportunities as a **Java Full Stack Developer** or related so
 I am a Java Full Stack Developer with hands-on training and internship experience in Java Full Stack Development and Manual Testing. I enjoy building practical applications, writing clean and maintainable code, and continuously improving my software development skills.
 
 My GitHub profile showcases well-structured repositories covering Java, Frontend Development, Databases, Python, Software Testing, Professional Certifications, and Research Publications. Each repository reflects my commitment to practical learning, technical documentation, and continuous growth.
+
+My GitHub profile also features visual handbooks, handwritten learning notes, practical Java applications, and interview preparation resources designed to support developers and students.
 
 Currently, I am seeking an opportunity as a **Java Full Stack Developer** where I can contribute to real-world software projects while expanding my technical expertise.
 
@@ -176,26 +178,28 @@ The following repositories demonstrate practical implementations, educational re
 | 02-Java-OOP-Concepts | Java | [View Repository](https://github.com/shaikbasha-dev/02-Java-OOP-Concepts) | Java Development |
 | 03-Java-Exception-Handling | Java | [View Repository](https://github.com/shaikbasha-dev/03-Java-Exception-Handling) | Java Development |
 | 04-Java-Multithreading | Java | [View Repository](https://github.com/shaikbasha-dev/04-Java-Multithreading) | Java Development |
+| 12-Java-Collections-Framework | Java | [View Repository](https://github.com/shaikbasha-dev/12-Java-Collections-Framework) | Java Development |
+| Java-Handwritten-Learning-Notes | Java | [View Repository](https://github.com/shaikbasha-dev/Java-Handwritten-Learning-Notes) | Educational Resource |
+| Java-Visual-Handbook | Java | [View Repository](https://github.com/shaikbasha-dev/Java-Visual-Handbook) | Educational Resource |
+| Developer-Portfolio-Project | HTML, CSS, JavaScript | [View Repository](https://github.com/shaikbasha-dev/Developer-Portfolio-Project) | Portfolio |
 | 05-HTML5 | HTML5 | [View Repository](https://github.com/shaikbasha-dev/05-HTML5) | Frontend Development |
+| HTML5-Visual-Handbook | HTML5 | [View Repository](https://github.com/shaikbasha-dev/HTML5-Visual-Handbook) | Educational Resource |
 | 06-CSS3 | CSS3 | [View Repository](https://github.com/shaikbasha-dev/06-CSS3) | Frontend Development |
+| CSS3-Visual-Handbook | CSS3 | [View Repository](https://github.com/shaikbasha-dev/CSS3-Visual-Handbook) | Educational Resource |
 | 07-JavaScript | JavaScript | [View Repository](https://github.com/shaikbasha-dev/07-JavaScript) | Frontend Development |
+| JavaScript-Interview-Questions | JavaScript | [View Repository](https://github.com/shaikbasha-dev/JavaScript-Interview-Questions) | Interview Preparation |
 | 08-Oracle-SQL | Oracle SQL | [View Repository](https://github.com/shaikbasha-dev/08-Oracle-SQL) | Database Development |
+| JDBCAPP-Database-Application | Java, JDBC, MySQL | [View Repository](https://github.com/shaikbasha-dev/JDBCAPP-Database-Application) | Backend Development |
 | 09-JDBC-with-MySQL | JDBC, MySQL | [View Repository](https://github.com/shaikbasha-dev/09-JDBC-with-MySQL) | Backend Development |
 | 10-Java-JDBC-MySQL-Demo | Java, JDBC | [View Repository](https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo) | Backend Development |
 | 11-Java-JDBC-Student-App | Java, JDBC | [View Repository](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App) | Backend Development |
-| 12-Java-Collections-Framework | Java | [View Repository](https://github.com/shaikbasha-dev/12-Java-Collections-Framework) | Java Development |
 | 13-Python | Python | [View Repository](https://github.com/shaikbasha-dev/13-Python) | Programming |
 | 14-Manual-Testing | Manual Testing | [View Repository](https://github.com/shaikbasha-dev/14-Manual-Testing) | Software Testing |
-| Java-Visual-Handbook | Java | [View Repository](https://github.com/shaikbasha-dev/Java-Visual-Handbook) | Educational Resource |
-| HTML5-Visual-Handbook | HTML5 | [View Repository](https://github.com/shaikbasha-dev/HTML5-Visual-Handbook) | Educational Resource |
-| CSS3-Visual-Handbook | CSS3 | [View Repository](https://github.com/shaikbasha-dev/CSS3-Visual-Handbook) | Educational Resource |
-| JavaScript-Interview-Questions | JavaScript | [View Repository](https://github.com/shaikbasha-dev/JavaScript-Interview-Questions) | Interview Preparation |
-| Developer-Portfolio-Project | HTML, CSS, JavaScript | [View Repository](https://github.com/shaikbasha-dev/Developer-Portfolio-Project) | Portfolio |
-| Home-Automation-and-Vehicle-Speed-Detection-Using-IoT | IoT, ESP8266, NodeMCU | [View Repository](https://github.com/shaikbasha-dev/Home-Automation-and-Vehicle-Speed-Detection-Using-IoT) | Academic Project |
 | Professional-Certifications | Certifications | [View Repository](https://github.com/shaikbasha-dev/Professional-Certifications) | Career Portfolio |
 | Research-Publications | Research | [View Repository](https://github.com/shaikbasha-dev/Research-Publications) | Academic Portfolio |
 | KodNest-Full-Stack-and-Manual-Testing-Internship | Java Full Stack | [View Repository](https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship) | Internship |
 | shaikbasha-dev | GitHub Profile | [View Repository](https://github.com/shaikbasha-dev/shaikbasha-dev) | GitHub Profile |
+| Home-Automation-and-Vehicle-Speed-Detection-Using-IoT | IoT, ESP8266, NodeMCU | [View Repository](https://github.com/shaikbasha-dev/Home-Automation-and-Vehicle-Speed-Detection-Using-IoT) | Academic Project |
 
 ---
 
