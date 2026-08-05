@@ -140,31 +140,7 @@ My GitHub activity reflects continuous learning, practical development, and cons
 
 </div>
 
-<br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikbasha-dev&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaikbasha-dev&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaikbasha-dev&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaikbasha-dev&theme=github_dark"/>
-
-</div>
 
 ---
 
