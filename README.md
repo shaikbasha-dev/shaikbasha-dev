@@ -5,7 +5,6 @@
 ### Java Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Java+%7C+JDBC+%7C+Oracle+SQL;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Angular;Python+%7C+Manual+Testing;Open+Source+Learner;Open+to+Work" alt="Typing SVG" />
-
 <br>
 
 <a href="https://shaikbasha-dev.github.io/Developer-Portfolio-Project/">
@@ -149,36 +148,36 @@ The following repositories demonstrate practical implementations, educational re
 
 | Repository                                            | Technology                 | View                                                                                                                               | Category              |
 | ----------------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| 01-Core-Java                                          | Java                       | [View Repository](https://github.com/shaikbasha-dev/01-Core-Java)                                                                  | Java Development      |
-| 02-Java-OOP-Concepts                                  | Java                       | [View Repository](https://github.com/shaikbasha-dev/02-Java-OOP-Concepts)                                                          | Java Development      |
-| 03-Java-Exception-Handling                            | Java                       | [View Repository](https://github.com/shaikbasha-dev/03-Java-Exception-Handling)                                                    | Java Development      |
-| 04-Java-Multithreading                                | Java                       | [View Repository](https://github.com/shaikbasha-dev/04-Java-Multithreading)                                                        | Java Development      |
-| 12-Java-Collections-Framework                         | Java                       | [View Repository](https://github.com/shaikbasha-dev/12-Java-Collections-Framework)                                                 | Java Development      |
-| Java-Handwritten-Learning-Notes                       | Java                       | [View Repository](https://github.com/shaikbasha-dev/Java-Handwritten-Learning-Notes)                                               | Educational Resource  |
-| Java-Visual-Handbook                                  | Java                       | [View Repository](https://github.com/shaikbasha-dev/Java-Visual-Handbook)                                                          | Educational Resource  |
-| 05-HTML5                                              | HTML5                      | [View Repository](https://github.com/shaikbasha-dev/05-HTML5)                                                                      | Frontend Development  |
-| HTML5-Handwritten-Notes                               | HTML5                      | [View Repository](https://github.com/shaikbasha-dev/HTML5-Handwritten-Notes)                                                       | Educational Resource  |
-| HTML5-Visual-Handbook                                 | HTML5                      | [View Repository](https://github.com/shaikbasha-dev/HTML5-Visual-Handbook)                                                         | Educational Resource  |
-| 06-CSS3                                               | CSS3                       | [View Repository](https://github.com/shaikbasha-dev/06-CSS3)                                                                       | Frontend Development  |
-| CSS3-Training-Repository                              | CSS3                       | [View Repository](https://github.com/shaikbasha-dev/CSS3-Training-Repository)                                                      | Learning Resource     |
-| CSS3-Interview-Questions                              | CSS3                       | [View Repository](https://github.com/shaikbasha-dev/CSS3-Interview-Questions)                                                      | Interview Preparation |
-| CSS3-Visual-Handbook                                  | CSS3                       | [View Repository](https://github.com/shaikbasha-dev/CSS3-Visual-Handbook)                                                          | Educational Resource  |
-| 07-JavaScript                                         | JavaScript                 | [View Repository](https://github.com/shaikbasha-dev/07-JavaScript)                                                                 | Frontend Development  |
-| JavaScript-Interview-Questions                        | JavaScript                 | [View Repository](https://github.com/shaikbasha-dev/JavaScript-Interview-Questions)                                                | Interview Preparation |
-| 08-Oracle-SQL                                         | Oracle SQL                 | [View Repository](https://github.com/shaikbasha-dev/08-Oracle-SQL)                                                                 | Database Development  |
-| 09-JDBC-with-MySQL                                    | Java, JDBC, MySQL          | [View Repository](https://github.com/shaikbasha-dev/09-JDBC-with-MySQL)                                                            | Backend Development   |
-| 10-Java-JDBC-MySQL-Demo                               | Java, JDBC, MySQL          | [View Repository](https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo)                                                       | Backend Development   |
-| 11-Java-JDBC-Student-App                              | Java, JDBC, MySQL          | [View Repository](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App)                                                      | Backend Development   |
-| JDBCAPP-Database-Application                          | Java, JDBC, MySQL          | [View Repository](https://github.com/shaikbasha-dev/JDBCAPP-Database-Application)                                                  | Backend Development   |
-| 13-Python                                             | Python                     | [View Repository](https://github.com/shaikbasha-dev/13-Python)                                                                     | Programming           |
-| 14-Manual-Testing                                     | Manual Testing             | [View Repository](https://github.com/shaikbasha-dev/14-Manual-Testing)                                                             | Software Testing      |
-| KodNest-Full-Stack-and-Manual-Testing-Internship      | Java Full Stack, Testing   | [View Repository](https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship)                              | Internship            |
-| Home-Automation-and-Vehicle-Speed-Detection-Using-IoT | IoT, ESP8266, NodeMCU      | [View Repository](https://github.com/shaikbasha-dev/Home-Automation-and-Vehicle-Speed-Detection-Using-IoT)                       | Academic Project      |
-| Developer-Portfolio-Project                           | HTML, CSS, JavaScript      | [View Repository](https://github.com/shaikbasha-dev/Developer-Portfolio-Project)                                                  | Portfolio             |
-| Resume-Portfolio                                      | Resume, Portfolio          | [View Repository](https://github.com/shaikbasha-dev/Resume-Portfolio)                                                             | Career Portfolio      |
-| Professional-Certifications                           | Certifications             | [View Repository](https://github.com/shaikbasha-dev/Professional-Certifications)                                                  | Career Portfolio      |
-| Research-Publications                                 | Research                   | [View Repository](https://github.com/shaikbasha-dev/Research-Publications)                                                        | Academic Portfolio    |
-| shaikbasha-dev                                        | GitHub Profile             | [View Repository](https://github.com/shaikbasha-dev/shaikbasha-dev)                                                               | GitHub Profile        |
+| 01-Core-Java                                          | Java                       | [**View Repository**](https://github.com/shaikbasha-dev/01-Core-Java)                                                                  | Java Development      |
+| 02-Java-OOP-Concepts                                  | Java                       | [**View Repository**](https://github.com/shaikbasha-dev/02-Java-OOP-Concepts)                                                          | Java Development      |
+| 03-Java-Exception-Handling                            | Java                       | [**View Repository**](https://github.com/shaikbasha-dev/03-Java-Exception-Handling)                                                    | Java Development      |
+| 04-Java-Multithreading                                | Java                       | [**View Repository**](https://github.com/shaikbasha-dev/04-Java-Multithreading)                                                        | Java Development      |
+| 12-Java-Collections-Framework                         | Java                       | [**View Repository**](https://github.com/shaikbasha-dev/12-Java-Collections-Framework)                                                 | Java Development      |
+| Java-Handwritten-Learning-Notes                       | Java                       | [**View Repository**](https://github.com/shaikbasha-dev/Java-Handwritten-Learning-Notes)                                               | Educational Resource  |
+| Java-Visual-Handbook                                  | Java                       | [**View Repository**](https://github.com/shaikbasha-dev/Java-Visual-Handbook)                                                          | Educational Resource  |
+| 05-HTML5                                              | HTML5                      | [**View Repository**](https://github.com/shaikbasha-dev/05-HTML5)                                                                      | Frontend Development  |
+| HTML5-Handwritten-Notes                               | HTML5                      | [**View Repository**](https://github.com/shaikbasha-dev/HTML5-Handwritten-Notes)                                                       | Educational Resource  |
+| HTML5-Visual-Handbook                                 | HTML5                      | [**View Repository**](https://github.com/shaikbasha-dev/HTML5-Visual-Handbook)                                                         | Educational Resource  |
+| 06-CSS3                                               | CSS3                       | [**View Repository**](https://github.com/shaikbasha-dev/06-CSS3)                                                                       | Frontend Development  |
+| CSS3-Training-Repository                              | CSS3                       | [**View Repository**](https://github.com/shaikbasha-dev/CSS3-Training-Repository)                                                      | Learning Resource     |
+| CSS3-Interview-Questions                              | CSS3                       | [**View Repository**](https://github.com/shaikbasha-dev/CSS3-Interview-Questions)                                                      | Interview Preparation |
+| CSS3-Visual-Handbook                                  | CSS3                       | [**View Repository**](https://github.com/shaikbasha-dev/CSS3-Visual-Handbook)                                                          | Educational Resource  |
+| 07-JavaScript                                         | JavaScript                 | [**View Repository**](https://github.com/shaikbasha-dev/07-JavaScript)                                                                 | Frontend Development  |
+| JavaScript-Interview-Questions                        | JavaScript                 | [**View Repository**](https://github.com/shaikbasha-dev/JavaScript-Interview-Questions)                                                | Interview Preparation |
+| 08-Oracle-SQL                                         | Oracle SQL                 | [**View Repository**](https://github.com/shaikbasha-dev/08-Oracle-SQL)                                                                 | Database Development  |
+| 09-JDBC-with-MySQL                                    | Java, JDBC, MySQL          | [**View Repository**](https://github.com/shaikbasha-dev/09-JDBC-with-MySQL)                                                            | Backend Development   |
+| 10-Java-JDBC-MySQL-Demo                               | Java, JDBC, MySQL          | [**View Repository**](https://github.com/shaikbasha-dev/10-Java-JDBC-MySQL-Demo)                                                       | Backend Development   |
+| 11-Java-JDBC-Student-App                              | Java, JDBC, MySQL          | [**View Repository**](https://github.com/shaikbasha-dev/11-Java-JDBC-Student-App)                                                      | Backend Development   |
+| JDBCAPP-Database-Application                          | Java, JDBC, MySQL          | [**View Repository**](https://github.com/shaikbasha-dev/JDBCAPP-Database-Application)                                                  | Backend Development   |
+| 13-Python                                             | Python                     | [**View Repository**](https://github.com/shaikbasha-dev/13-Python)                                                                     | Programming           |
+| 14-Manual-Testing                                     | Manual Testing             | [**View Repository**](https://github.com/shaikbasha-dev/14-Manual-Testing)                                                             | Software Testing      |
+| KodNest-Full-Stack-and-Manual-Testing-Internship      | Java Full Stack, Testing   | [**View Repository**](https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship)                              | Internship            |
+| Home-Automation-and-Vehicle-Speed-Detection-Using-IoT | IoT, ESP8266, NodeMCU      | [**View Repository**](https://github.com/shaikbasha-dev/Home-Automation-and-Vehicle-Speed-Detection-Using-IoT)                       | Academic Project      |
+| Developer-Portfolio-Project                           | HTML, CSS, JavaScript      | [**View Repository**](https://github.com/shaikbasha-dev/Developer-Portfolio-Project)                                                  | Portfolio             |
+| Resume-Portfolio                                      | Resume, Portfolio          | [**View Repository**](https://github.com/shaikbasha-dev/Resume-Portfolio)                                                             | Career Portfolio      |
+| Professional-Certifications                           | Certifications             | [**View Repository**](https://github.com/shaikbasha-dev/Professional-Certifications)                                                  | Career Portfolio      |
+| Research-Publications                                 | Research                   | [**View Repository**](https://github.com/shaikbasha-dev/Research-Publications)                                                        | Academic Portfolio    |
+| shaikbasha-dev                                        | GitHub Profile             | [**View Repository**](https://github.com/shaikbasha-dev/shaikbasha-dev)                                                               | GitHub Profile        |
 
 
 ---
@@ -190,17 +189,17 @@ The following certifications demonstrate continuous learning across Java, Web De
 
 | Certification Name | Technology | View | Organization |
 |--------------------|------------|------|--------------|
-| Programming using Java | Java | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Programming_using_Java_Infosys_Springboard.pdf) | Infosys Springboard |
-| Getting Started with Java: The Fundamentals of Java Programming | Java | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Getting-Started-with-Java-Fundamentals-of-Java-Programming-Infosys-Springboard-2026.pdf) | Infosys Springboard |
-| HTML5 – The Language | HTML5 | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/HTML5-The-Language-Infosys-Springboard-2026.pdf) | Infosys Springboard |
-| CSS3 | CSS3 | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/CSS3-Infosys-Springboard-Certificate-2026.pdf) | Infosys Springboard |
-| Introduction to Oracle SQL | Oracle SQL | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Introduction-to-Oracle-SQL-Infosys-Springboard-2026.pdf) | Infosys Springboard |
-| Introduction to Java | Java | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Introduction_to_Java_Coursera.pdf) | Coursera |
-| JavaScript Basics | JavaScript | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/JavaScript_Basics_Coursera.pdf) | Coursera |
-| Programming for Everybody (Python) | Python | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Programming_for_Everybody_Python_Coursera.pdf) | Coursera |
-| SQL and Relational Databases | SQL | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/SQL_and_Relational_Databases_IBM.pdf) | IBM |
-| Front End Development – HTML | HTML5 | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Front_End_Development_HTML_GreatLearning.pdf) | Great Learning |
-| Front End Development – CSS | CSS3 | [View Certificate](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Front_End_Development_CSS_GreatLearning.pdf) | Great Learning |
+| Programming using Java | Java | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Programming_using_Java_Infosys_Springboard.pdf) | Infosys Springboard |
+| Getting Started with Java: The Fundamentals of Java Programming | Java | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Getting-Started-with-Java-Fundamentals-of-Java-Programming-Infosys-Springboard-2026.pdf) | Infosys Springboard |
+| HTML5 – The Language | HTML5 | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/HTML5-The-Language-Infosys-Springboard-2026.pdf) | Infosys Springboard |
+| CSS3 | CSS3 | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/CSS3-Infosys-Springboard-Certificate-2026.pdf) | Infosys Springboard |
+| Introduction to Oracle SQL | Oracle SQL | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Introduction-to-Oracle-SQL-Infosys-Springboard-2026.pdf) | Infosys Springboard |
+| Introduction to Java | Java | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Introduction_to_Java_Coursera.pdf) | Coursera |
+| JavaScript Basics | JavaScript | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/JavaScript_Basics_Coursera.pdf) | Coursera |
+| Programming for Everybody (Python) | Python | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Programming_for_Everybody_Python_Coursera.pdf) | Coursera |
+| SQL and Relational Databases | SQL | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/SQL_and_Relational_Databases_IBM.pdf) | IBM |
+| Front End Development – HTML | HTML5 | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Front_End_Development_HTML_GreatLearning.pdf) | Great Learning |
+| Front End Development – CSS | CSS3 | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Front_End_Development_CSS_GreatLearning.pdf) | Great Learning |
 
 ---
 
@@ -210,13 +209,13 @@ The following achievement badges recognize continuous learning, active participa
 
 | Badge Name | View | Organization |
 |------------|------|--------------|
-| Getting Started with Java | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Getting_Started_with_Java_Skillsoft_Badge.png) | Infosys Springboard |
-| Warrior – First Course | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Warrior_First_Course_Infosys_Springboard_Badge.png) | Infosys Springboard |
-| Duelist – First Quiz Resource | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Duelist_First_Quiz_Resource_Infosys_Springboard_Badge.png) | Infosys Springboard |
-| Ace – 25 Quiz Resources | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Ace_25_Quiz_Resources_Infosys_Springboard_Badge.png) | Infosys Springboard |
-| Genie – 100 Quiz Resources | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Genie_100_Quiz_Resources_Infosys_Springboard_Badge.png) | Infosys Springboard |
-| Wizard – 250 Quiz Resources | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Wizard_250_Quiz_Resources_Infosys_Springboard_Badge.png) | Infosys Springboard |
-| The Fledgling | [View Badge](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/The_Fledgling_Infosys_Springboard_Badge.png) | Infosys Springboard |
+| Getting Started with Java | [**View Badge**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Getting_Started_with_Java_Skillsoft_Badge.png) | Infosys Springboard |
+| Warrior – First Course | [**View Badge**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Warrior_First_Course_Infosys_Springboard_Badge.png) | Infosys Springboard |
+| Duelist – First Quiz Resource | [**View Badge**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Duelist_First_Quiz_Resource_Infosys_Springboard_Badge.png) | Infosys Springboard |
+| Ace – 25 Quiz Resources | [**View Badge**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Ace_25_Quiz_Resources_Infosys_Springboard_Badge.png) | Infosys Springboard |
+| Genie – 100 Quiz Resources | [**View Badge**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Genie_100_Quiz_Resources_Infosys_Springboard_Badge.png) | Infosys Springboard |
+| Wizard – 250 Quiz Resources | [**View Badge**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/Wizard_250_Quiz_Resources_Infosys_Springboard_Badge.png) | Infosys Springboard |
+| The Fledgling | [**View Badge**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Badges/The_Fledgling_Infosys_Springboard_Badge.png) | Infosys Springboard |
 
 ---
 
@@ -232,7 +231,7 @@ My undergraduate research work focused on applying Internet of Things (IoT) tech
 
 **DOI:** 10.37897/GRJ
 
-**Repository:** [Research Publications](https://github.com/shaikbasha-dev/Research-Publications)
+**Repository:** [**Research Publications**](https://github.com/shaikbasha-dev/Research-Publications)
 
 ---
 
@@ -261,7 +260,7 @@ Completed a hands-on internship focused on Java Full Stack Development and Manua
 - SDLC & STLC
 - Git & GitHub
 
-**Repository:** [KodNest Full Stack & Manual Testing Internship](https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship)
+**Repository:** [**KodNest Full Stack & Manual Testing Internship**](https://github.com/shaikbasha-dev/KodNest-Full-Stack-and-Manual-Testing-Internship)
 
 ---
 
