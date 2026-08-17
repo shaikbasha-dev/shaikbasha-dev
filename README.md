@@ -126,10 +126,6 @@ Currently, I am seeking an opportunity as a **Java Full Stack Developer** where 
 My GitHub activity reflects continuous learning, practical development, and consistent contributions across Java Full Stack Development, Web Technologies, Databases, Software Testing, and Technical Documentation.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikbasha-dev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikbasha-dev&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
