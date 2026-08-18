@@ -174,7 +174,7 @@ The following repositories demonstrate practical implementations, educational re
 
 ## Professional Certifications
 
-The following certifications demonstrate continuous learning across Java, Web Development, Databases, and Programming through recognized learning platforms.
+The following certifications demonstrate continuous learning across Java, Web Development, Databases, Software Testing, and Programming through recognized learning platforms.
 
 | Certification Name | Technology | View | Organization |
 |--------------------|------------|------|--------------|
@@ -183,6 +183,7 @@ The following certifications demonstrate continuous learning across Java, Web De
 | HTML5 – The Language | HTML5 | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/HTML5-The-Language-Infosys-Springboard-2026.pdf) | Infosys Springboard |
 | CSS3 | CSS3 | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/CSS3-Infosys-Springboard-Certificate-2026.pdf) | Infosys Springboard |
 | Introduction to Oracle SQL | Oracle SQL | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Introduction-to-Oracle-SQL-Infosys-Springboard-2026.pdf) | Infosys Springboard |
+| Fundamentals of Software Testing | Software Testing | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Fundamentals-of-Software-Testing-Infosys-Springboard-2026.pdf) | Infosys Springboard |
 | Introduction to Java | Java | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Introduction_to_Java_Coursera.pdf) | Coursera |
 | JavaScript Basics | JavaScript | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/JavaScript_Basics_Coursera.pdf) | Coursera |
 | Programming for Everybody (Python) | Python | [**View Certificate**](https://github.com/shaikbasha-dev/Professional-Certifications/blob/main/Programming_for_Everybody_Python_Coursera.pdf) | Coursera |
